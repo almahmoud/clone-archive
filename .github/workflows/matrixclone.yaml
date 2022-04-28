@@ -52,7 +52,7 @@ jobs:
           sleep $(( ${{matrix.worker}}*2 )) &&
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          for i in {1..5}; do bash .github/scripts/claim_list.sh ${{matrix.worker}} && git push && export DONE=1 && break || sleep 1; done && if ! [ -z "$DONE" ]; then echo "::set-output name=path::$(cat tmp${{matrix.worker}})"; else exit 1; fi
+          for i in {1..20}; do bash .github/scripts/claim_list.sh ${{matrix.worker}} && git push && export DONE=1 && break || sleep 1; done && if ! [ -z "$DONE" ]; then echo "::set-output name=path::$(cat tmp${{matrix.worker}})"; else exit 1; fi
         continue-on-error: true
 
       - name: Run list with helm install clone jobs
@@ -60,7 +60,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          sleep $(( ${{matrix.worker}}*2 )) && for i in {1..5}; do bash .github/scripts/mark_running.sh ${{steps.list.outputs.path}} && git push && export RUNNING=1 && break || sleep 1; done &&\
+          sleep $(( ${{matrix.worker}}*2 )) && for i in {1..20}; do bash .github/scripts/mark_running.sh ${{steps.list.outputs.path}} && git push && export RUNNING=1 && break || sleep 1; done &&\
           if ! [ -z "$RUNNING" ]; then echo "::set-output name=path::$(cat tmp${{matrix.worker}})"; else exit 1; fi &&\
           echo "$RCLONE_CONF" > /tmp/creds &&\
           helm install data-clone ./cloner --set-file extraFileMappings."/root/\.rclone\.conf".content=/tmp/creds --set-file configs."list\.txt"=lists/running/${{steps.list.outputs.path}}
@@ -76,7 +76,7 @@ jobs:
           git reset --hard origin/main
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          for i in {1..5}; do bash .github/scripts/claim_list.sh ${{matrix.worker}} && git push && export DONE=1 && break || sleep 1; done && if ! [ -z "$DONE" ]; then echo "::set-output name=path::$(cat tmp${{matrix.worker}})"; else exit 1; fi
+          for i in {1..20}; do bash .github/scripts/claim_list.sh ${{matrix.worker}} && git push && export DONE=1 && break || sleep 1; done && if ! [ -z "$DONE" ]; then echo "::set-output name=path::$(cat tmp${{matrix.worker}})"; else exit 1; fi
         if: steps.list.outcome=='failure' || steps.listrun.outcome=='failure'
 
       - name: Run list with helm install clone jobs 2
@@ -84,7 +84,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          sleep $(( ${{matrix.worker}}*5 )) && for i in {1..5}; do bash .github/scripts/mark_running.sh ${{steps.list2.outputs.path}} && git push && export RUNNING=1 && break || sleep 1; done &&\
+          sleep $(( ${{matrix.worker}}*5 )) && for i in {1..20}; do bash .github/scripts/mark_running.sh ${{steps.list2.outputs.path}} && git push && export RUNNING=1 && break || sleep 1; done &&\
           if ! [ -z "$RUNNING" ]; then echo "::set-output name=path::$(cat tmp${{matrix.worker}})"; else exit 1; fi &&\
           echo "$RCLONE_CONF" > /tmp/creds &&\
           helm install data-clone ./cloner --set-file extraFileMappings."/root/\.rclone\.conf".content=/tmp/creds --set-file configs."list\.txt"=lists/running/${{steps.list2.outputs.path}}
