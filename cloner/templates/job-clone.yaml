@@ -1,0 +1,53 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: data-clone
+spec:
+  ttlSecondsAfterFinished: 120
+  backoffLimit: 1
+  template:
+    metadata:
+      name: "data-clone"
+    spec:
+      securityContext:
+        runAsUser: 0
+      restartPolicy: OnFailure
+      initContainers: []
+      containers:
+        - name: clone-data-repo
+          image: "{{ .Values.cloneJob.image }}"
+          command:
+            - sh
+            - "-c"
+            - {{ .Values.cloneJob.command }}
+            {{- if .Values.extraEnv }}
+          env:
+            {{ tpl (toYaml .Values.extraEnv) . | indent 12 }}
+            {{- end }}
+          volumeMounts:
+            {{- range $key,$entry := .Values.configs }}
+            {{ if $entry -}}
+            - name: configs
+              mountPath: /mnt/configs/{{ $key }}
+              subPath: {{ $key }}
+            {{ end }}
+            {{ end }}
+            {{- range $key, $entry := $.Values.extraFileMappings -}}
+            - name: {{ include "cloner.getExtraFilesUniqueName" $key }}
+              mountPath: {{ $key }}
+              subPath: {{ include "cloner.getFilenameFromPath" $key }}
+            {{- end }}
+      volumes:
+        - name: configs
+          secret:
+            secretName: cloner-configs
+        {{- range $key, $entry := $.Values.extraFileMappings }}
+        - name: {{ include "cloner.getExtraFilesUniqueName" $key }}
+          {{- if $entry.useSecret }}
+          secret:
+            secretName: {{ printf (include "cloner.getExtraFilesUniqueName" $key) }}
+          {{- else }}
+          configMap:
+            name: {{ printf (include "cloner.getExtraFilesUniqueName" $key) }}
+          {{- end }}
+        {{- end }}
