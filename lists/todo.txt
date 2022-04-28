@@ -1,4 +1,3 @@
-archive/sub_67_678222_200.txt
 archive/sub_68_684087_200.txt
 archive/sub_69_681103_200.txt
 archive/sub_70_688976_200.txt
