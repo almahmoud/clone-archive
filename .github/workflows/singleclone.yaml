@@ -29,6 +29,7 @@ jobs:
           metrics-enabled: false
         #   k3s-version: v1.19.10+k3s1 # releases:  https://github.com/k3s-io/k3s/tags
         if: steps.k8s.outcome=='failure'
+        continue-on-error: true
 
       - name: Start k8s locally 3
         uses: jupyterhub/action-k3s-helm@v1
@@ -42,31 +43,68 @@ jobs:
         run: |
           kubectl version
           helm version
+
       - name: Claim list
         id: list
         run: |
-          #sleep $(( ${{matrix.worker}}*5 )) &&
+          sleep $(( ${{matrix.worker}}*2 )) &&
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          for i in {1..5}; do bash .github/scripts/claim_list.sh ${{matrix.worker}} && git push && export DONE=1 && break || sleep 1; done && if ! [ -z "$DONE" ]; then echo "::set-output name=path::$(cat tmp${{matrix.worker}})"; else exit 1; fi
+          for i in {1..20}; do bash .github/scripts/claim_list.sh ${{matrix.worker}} && git push && export DONE=1 && break || sleep 1; done && if ! [ -z "$DONE" ]; then echo "::set-output name=path::$(cat tmp${{matrix.worker}})"; else exit 1; fi
+        continue-on-error: true
 
       - name: Run list with helm install clone jobs
+        id: listrun
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          #sleep $(( ${{matrix.worker}}*5 )) &&
-          for i in {1..5}; do bash .github/scripts/mark_running.sh ${{steps.list.outputs.path}} && git push && export RUNNING=1 && break || sleep 1; done &&\
+          sleep $(( ${{matrix.worker}}*2 )) && for i in {1..20}; do bash .github/scripts/mark_running.sh ${{steps.list.outputs.path}} && git push && export RUNNING=1 && break || sleep 1; done &&\
           if ! [ -z "$RUNNING" ]; then echo "::set-output name=path::$(cat tmp${{matrix.worker}})"; else exit 1; fi &&\
           echo "$RCLONE_CONF" > /tmp/creds &&\
           helm install data-clone ./cloner --set-file extraFileMappings."/root/\.rclone\.conf".content=/tmp/creds --set-file configs."list\.txt"=lists/running/${{steps.list.outputs.path}}
         env:
           RCLONE_CONF: ${{secrets.RCLONE_CONF}}
+        if: steps.list.outcome=='success'
+        continue-on-error: true
+
+      - name: Claim list 2
+        id: list2
+        run: |
+          sleep $(( ${{matrix.worker}}*5 )) &&
+          git reset --hard origin/main
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          for i in {1..20}; do bash .github/scripts/claim_list.sh ${{matrix.worker}} && git push && export DONE=1 && break || sleep 1; done && if ! [ -z "$DONE" ]; then echo "::set-output name=path::$(cat tmp${{matrix.worker}})"; else exit 1; fi
+        if: steps.list.outcome=='failure' || steps.listrun.outcome=='failure'
+
+      - name: Run list with helm install clone jobs 2
+        id: listrun2
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          sleep $(( ${{matrix.worker}}*5 )) && for i in {1..20}; do bash .github/scripts/mark_running.sh ${{steps.list2.outputs.path}} && git push && export RUNNING=1 && break || sleep 1; done &&\
+          if ! [ -z "$RUNNING" ]; then echo "::set-output name=path::$(cat tmp${{matrix.worker}})"; else exit 1; fi &&\
+          echo "$RCLONE_CONF" > /tmp/creds &&\
+          helm install data-clone ./cloner --set-file extraFileMappings."/root/\.rclone\.conf".content=/tmp/creds --set-file configs."list\.txt"=lists/running/${{steps.list2.outputs.path}}
+        env:
+          RCLONE_CONF: ${{secrets.RCLONE_CONF}}
+        if: steps.list2.outcome=='success'
 
       - name: Get logs and events
         run: sh -c "while true; do kubectl get events > /tmp/events && tail -n 100 /tmp/events && sleep 5 && kubectl logs $(kubectl get pods | grep -o 'data-clone-[^ ]*')  > /tmp/logs && tail -n 100 /tmp/logs && sleep 5; done;" & kubectl wait --for=condition=complete --timeout=6000s job/data-clone
         continue-on-error: true
-      - name: Done list
+
+      - name: Done list 1
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           until bash .github/scripts/mark_done.sh ${{steps.list.outputs.path}} && git push; do sleep 1 && git reset --hard origin/main; done
+        if: steps.list.outcome=='success' && steps.listrun.outcome=='success'
+        continue-on-error: true
+
+      - name: Done list 2
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          until bash .github/scripts/mark_done.sh ${{steps.list2.outputs.path}} && git push; do sleep 1 && git reset --hard origin/main; done
+        if: steps.list2.outcome=='success' && steps.listrun2.outcome=='success'
