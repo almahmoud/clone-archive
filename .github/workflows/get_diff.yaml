@@ -21,5 +21,12 @@ jobs:
           mkdir -p list-scripts/generated
           rclone ls osn:/bir190004-bucket01/archive.bioconductor.org > list-scripts/generated/osn.raw
           rclone ls archive-s3:/archive.bioconductor.org > list-scripts/generated/archive.raw
-          comm -2 -3 <(sort archive.raw) <(sort osn.raw) > list-scripts/generated/s3-only.raw
-          comm -1 -3 <(sort archive.raw) <(sort osn.raw) > list-scripts/generated/osn-only.raw
+          comm -2 -3 <(sort list-scripts/generated/archive.raw) <(sort list-scripts/generated/osn.raw) > list-scripts/generated/s3-only.raw
+          comm -1 -3 <(sort list-scripts/generated/archive.raw) <(sort list-scripts/generated/osn.raw) > list-scripts/generated/osn-only.raw
+          apk add --no-cache git
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add .
+          git commit -m "Generate diff $(echo $(date +'%m-%d-%H-%M-%S'))"
+          git push

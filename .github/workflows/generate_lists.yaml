@@ -18,3 +18,9 @@ jobs:
       - run: |
           bash list-scripts/rclonels_to_list.sh ${{ github.event.inputs.rawsource }} 8000000000 200 lists/archive2
           bash generate_todo.sh archive2 todo.txt
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add .
+          git commit -m "Generate lists $(echo $(date +'%m-%d-%H-%M-%S'))"
+          git push
