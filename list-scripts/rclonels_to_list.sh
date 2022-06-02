@@ -1,13 +1,14 @@
 #!/bin/bash
-# usage: bash list-scripts/rclonels_to_list.sh archive.bioconductor.org 8000000000 200 lists/archive
-RELEASE=${1:-archive.bioconductor.org}
+# usage: bash list-scripts/rclonels_to_list.sh archive2 8000000000 200 lists/archive archive.bioconductor.org
+RAWDIR=${1:-archive}
 
 # Remove dirs
-cat list-scripts/$RELEASE.raw | awk  '{print $2" "$1}' > list-scripts/$RELEASE.sizes
+cat list-scripts/$RAWDIR.raw | awk  '{print $2" "$1}' > list-scripts/$RAWDIR.sizes
 
 sizelimit=${2:-10000000000} # in B
 filenumlimit=${3:-50} # 200 files max
-outdir=${4:-"lists/$RELEASE"}
+outdir=${4:-"lists/$RAWDIR"}
+LISTPREFIX=${5:-$RAWDIR}
 sizesofar=0
 filenumsofar=0
 dircount=1
@@ -26,8 +27,8 @@ do
   fi
   (( sizesofar += size ))
   (( filenumsofar += 1 ))
-  echo "$1/$file" >> "$outdir/tmp_sub_$dircount.txt"
-done < list-scripts/$RELEASE.sizes
+  echo "$LISTPREFIX/$file" >> "$outdir/tmp_sub_$dircount.txt"
+done < list-scripts/$RAWDIR.sizes
 
 echo "Done with chunk $dircount with size $sizesofar B and $filenumsofar files"
 mv $outdir/tmp_sub_$dircount.txt $outdir/sub_${dircount}_${sizesofar}_${filenumsofar}.txt
