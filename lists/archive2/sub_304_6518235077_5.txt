@@ -1,0 +1,5 @@
+archive.bioconductor.org/packages/3.7/data/annotation/src/contrib/MeSH.Laf.eg.db_1.10.0.tar.gz
+archive.bioconductor.org/packages/3.5/data/annotation/src/contrib/MafDb.1Kgenomes.phase3.hs37d5_3.5.0.tar.gz
+archive.bioconductor.org/packages/3.7/data/annotation/src/contrib/MafDb.1Kgenomes.phase3.hs37d5_3.7.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/MafDb.1Kgenomes.phase3.hs37d5_3.7.0.tar.gz
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/MafDb.1Kgenomes.phase3.hs37d5_3.7.0.tar.gz

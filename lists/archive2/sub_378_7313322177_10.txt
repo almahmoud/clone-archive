@@ -1,0 +1,10 @@
+archive.bioconductor.org/packages/3.8/workflows/webvigs/simpleSingleCell/pancreas_refseq_rpkms_counts_3514sc.txt
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/MafDb.TOPMed.freeze5.hg38_3.9.0.tar.gz
+archive.bioconductor.org/packages/3.6/bioc/bin/windows/contrib/3.4/SwathXtend_2.0.0.zip
+archive.bioconductor.org/packages/3.2/data/annotation/src/contrib/MafDb.ALL.wgs.phase1.release.v3.20101123_3.2.0.tar.gz
+archive.bioconductor.org/packages/3.3/data/annotation/src/contrib/MafDb.1Kgenomes.phase1.hs37d5_3.3.0.tar.gz
+archive.bioconductor.org/packages/3.4/data/annotation/src/contrib/BSgenome.Ptroglodytes.UCSC.panTro5_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.5/data/annotation/src/contrib/BSgenome.Ptroglodytes.UCSC.panTro5_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.6/data/annotation/src/contrib/BSgenome.Ptroglodytes.UCSC.panTro5_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.7/data/annotation/src/contrib/BSgenome.Ptroglodytes.UCSC.panTro5_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/BSgenome.Ptroglodytes.UCSC.panTro5_1.4.2.tar.gz

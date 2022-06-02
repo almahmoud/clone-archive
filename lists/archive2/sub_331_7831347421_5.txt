@@ -1,0 +1,5 @@
+archive.bioconductor.org/packages/3.7/data/experiment/src/contrib/ChIPXpressData_1.18.0.tar.gz
+archive.bioconductor.org/packages/3.5/data/experiment/src/contrib/ChIPXpressData_1.14.0.tar.gz
+archive.bioconductor.org/packages/3.2/data/annotation/src/contrib/BSgenome.Drerio.UCSC.danRer5_1.4.0.tar.gz
+archive.bioconductor.org/packages/3.3/data/annotation/src/contrib/BSgenome.Drerio.UCSC.danRer5_1.4.0.tar.gz
+archive.bioconductor.org/packages/3.4/data/annotation/src/contrib/BSgenome.Drerio.UCSC.danRer5_1.4.0.tar.gz

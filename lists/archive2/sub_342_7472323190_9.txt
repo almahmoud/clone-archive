@@ -1,0 +1,9 @@
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/MafDb.gnomAD.r2.0.1.GRCh38_3.9.0.tar.gz
+archive.bioconductor.org/packages/3.4/data/annotation/src/contrib/pd.clariom.d.human_3.14.1.tar.gz
+archive.bioconductor.org/packages/3.5/data/annotation/src/contrib/pd.clariom.d.human_3.14.1.tar.gz
+archive.bioconductor.org/packages/3.6/data/annotation/src/contrib/pd.clariom.d.human_3.14.1.tar.gz
+archive.bioconductor.org/packages/3.7/data/annotation/src/contrib/pd.clariom.d.human_3.14.1.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/pd.clariom.d.human_3.14.1.tar.gz
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/pd.clariom.d.human_3.14.1.tar.gz
+archive.bioconductor.org/packages/3.6/bioc/bin/windows/contrib/3.4/erma_0.10.1.zip
+archive.bioconductor.org/packages/3.6/bioc/bin/windows/contrib/3.4/Archive/erma/erma_0.10.0.zip

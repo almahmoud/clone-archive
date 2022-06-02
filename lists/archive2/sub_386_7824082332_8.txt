@@ -1,0 +1,8 @@
+archive.bioconductor.org/packages/3.4/data/experiment/src/contrib/Single.mTEC.Transcriptomes_1.2.1.tar.gz
+archive.bioconductor.org/packages/3.5/data/experiment/src/contrib/Single.mTEC.Transcriptomes_1.4.0.tar.gz
+archive.bioconductor.org/packages/3.3/data/experiment/src/contrib/Single.mTEC.Transcriptomes_1.0.2.tar.gz
+archive.bioconductor.org/packages/3.4/data/experiment/src/contrib/dsQTL_0.12.0.tar.gz
+archive.bioconductor.org/packages/3.7/data/experiment/src/contrib/dsQTL_0.18.0.tar.gz
+archive.bioconductor.org/packages/3.5/data/experiment/src/contrib/dsQTL_0.14.0.tar.gz
+archive.bioconductor.org/packages/3.9/data/experiment/src/contrib/dsQTL_0.22.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/experiment/src/contrib/dsQTL_0.20.0.tar.gz

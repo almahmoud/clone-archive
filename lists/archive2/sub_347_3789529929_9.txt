@@ -1,0 +1,9 @@
+archive.bioconductor.org/packages/3.3/data/annotation/src/contrib/oligoData_1.8.0.tar.gz
+archive.bioconductor.org/packages/3.4/data/annotation/src/contrib/oligoData_1.8.0.tar.gz
+archive.bioconductor.org/packages/3.5/data/annotation/src/contrib/oligoData_1.8.0.tar.gz
+archive.bioconductor.org/packages/3.6/data/annotation/src/contrib/oligoData_1.8.0.tar.gz
+archive.bioconductor.org/packages/3.7/data/annotation/src/contrib/oligoData_1.8.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/oligoData_1.8.0.tar.gz
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/oligoData_1.8.0.tar.gz
+archive.bioconductor.org/packages/3.5/data/annotation/src/contrib/MeSH.Mmu.eg.db_1.8.0.tar.gz
+archive.bioconductor.org/packages/3.6/data/annotation/src/contrib/MeSH.Mmu.eg.db_1.9.0.tar.gz

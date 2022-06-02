@@ -1,0 +1,7 @@
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP151.GRCh38_0.99.20.tar.gz
+archive.bioconductor.org/packages/3.2/bioc/bin/windows/contrib/3.2/erma_0.2.0.zip
+archive.bioconductor.org/packages/3.2/data/experiment/bin/windows/contrib/3.2/erma_0.2.0.zip
+archive.bioconductor.org/packages/3.3/bioc/bin/windows/contrib/3.3/erma_0.4.2.zip
+archive.bioconductor.org/packages/3.4/bioc/bin/windows/contrib/3.3/erma_0.6.0.zip
+archive.bioconductor.org/packages/3.5/bioc/bin/windows/contrib/3.4/erma_0.8.0.zip
+archive.bioconductor.org/packages/3.2/data/annotation/src/contrib/MeSH.Hsa.eg.db_1.5.0.tar.gz

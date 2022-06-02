@@ -1,0 +1,11 @@
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/BSgenome.Ptroglodytes.UCSC.panTro6_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/BSgenome.Ptroglodytes.UCSC.panTro6_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.4/data/annotation/src/contrib/MafDb.1Kgenomes.phase1.hs37d5_3.4.0.tar.gz
+archive.bioconductor.org/packages/3.2/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38_1.4.1.tar.gz
+archive.bioconductor.org/packages/3.3/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38_1.4.1.tar.gz
+archive.bioconductor.org/packages/3.4/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38_1.4.1.tar.gz
+archive.bioconductor.org/packages/3.5/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38_1.4.1.tar.gz
+archive.bioconductor.org/packages/3.6/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38_1.4.1.tar.gz
+archive.bioconductor.org/packages/3.7/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38_1.4.1.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38_1.4.1.tar.gz
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38_1.4.1.tar.gz

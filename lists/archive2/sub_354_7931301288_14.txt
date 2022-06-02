@@ -1,0 +1,14 @@
+archive.bioconductor.org/packages/3.5/data/annotation/src/contrib/BSgenome.Cfamiliaris.UCSC.canFam2_1.4.0.tar.gz
+archive.bioconductor.org/packages/3.6/data/annotation/src/contrib/BSgenome.Cfamiliaris.UCSC.canFam2_1.4.0.tar.gz
+archive.bioconductor.org/packages/3.7/data/annotation/src/contrib/BSgenome.Cfamiliaris.UCSC.canFam2_1.4.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/BSgenome.Cfamiliaris.UCSC.canFam2_1.4.0.tar.gz
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/BSgenome.Cfamiliaris.UCSC.canFam2_1.4.0.tar.gz
+archive.bioconductor.org/packages/3.2/data/annotation/src/contrib/BSgenome.Mfuro.UCSC.musFur1_1.4.1.tar.gz
+archive.bioconductor.org/packages/3.3/data/annotation/src/contrib/BSgenome.Mfuro.UCSC.musFur1_1.4.1.tar.gz
+archive.bioconductor.org/packages/3.4/data/annotation/src/contrib/BSgenome.Mfuro.UCSC.musFur1_1.4.1.tar.gz
+archive.bioconductor.org/packages/3.5/data/annotation/src/contrib/BSgenome.Mfuro.UCSC.musFur1_1.4.1.tar.gz
+archive.bioconductor.org/packages/3.6/data/annotation/src/contrib/BSgenome.Mfuro.UCSC.musFur1_1.4.1.tar.gz
+archive.bioconductor.org/packages/3.7/data/annotation/src/contrib/BSgenome.Mfuro.UCSC.musFur1_1.4.1.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/BSgenome.Mfuro.UCSC.musFur1_1.4.1.tar.gz
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/BSgenome.Mfuro.UCSC.musFur1_1.4.1.tar.gz
+archive.bioconductor.org/packages/3.4/data/annotation/src/contrib/MacDonald_annot_pkgs.tar.gz

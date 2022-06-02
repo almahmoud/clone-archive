@@ -1,0 +1,12 @@
+archive.bioconductor.org/packages/3.7/data/experiment/src/contrib/MMDiffBamSubset_1.16.0.tar.gz
+archive.bioconductor.org/packages/3.6/data/experiment/src/contrib/MMDiffBamSubset_1.14.0.tar.gz
+archive.bioconductor.org/packages/3.9/data/experiment/src/contrib/MMDiffBamSubset_1.20.0.tar.gz
+archive.bioconductor.org/packages/3.3/data/experiment/src/contrib/MMDiffBamSubset_1.8.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/experiment/src/contrib/MMDiffBamSubset_1.18.0.tar.gz
+archive.bioconductor.org/packages/3.2/data/annotation/src/contrib/BSgenome.Mfascicularis.NCBI.5.0_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.3/data/annotation/src/contrib/BSgenome.Mfascicularis.NCBI.5.0_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.4/data/annotation/src/contrib/BSgenome.Mfascicularis.NCBI.5.0_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.5/data/annotation/src/contrib/BSgenome.Mfascicularis.NCBI.5.0_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.6/data/annotation/src/contrib/BSgenome.Mfascicularis.NCBI.5.0_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.7/data/annotation/src/contrib/BSgenome.Mfascicularis.NCBI.5.0_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/BSgenome.Mfascicularis.NCBI.5.0_1.4.2.tar.gz
