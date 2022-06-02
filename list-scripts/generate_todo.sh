@@ -1,7 +1,7 @@
 #!/bin/bash
-# usage: bash list-scripts/generate_todo.sh
-cd lists
-lists=${1:-archive}
+# usage: bash list-scripts/generate_todo.sh archive todo.txt
+cd listdir
+listdir=${1:-archive}
 todo=${2:-todo.txt}
-ls $lists/* | sort -V >> $todo
+ls $listdir/* | sort -V >> $todo
 cd ..
