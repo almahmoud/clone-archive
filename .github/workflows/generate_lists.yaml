@@ -8,9 +8,7 @@ on:
         default: 'generated/s3-only.raw'
 
 jobs:
-  getpkgs:
-    container:
-      image: rclone/rclone:latest
+  genlist:
     name: Generate lists
     runs-on: ubuntu-latest
     steps:

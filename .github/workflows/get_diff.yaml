@@ -3,7 +3,7 @@ on:
   workflow_dispatch: {}
 
 jobs:
-  getpkgs:
+  getdiff:
     container:
       image: rclone/rclone:latest
     name: Archive diff
