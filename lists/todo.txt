@@ -1,4 +1,3 @@
-archive2/sub_50_77375599_200.txt
 archive2/sub_51_78932014_200.txt
 archive2/sub_52_80347514_200.txt
 archive2/sub_53_81670734_200.txt
