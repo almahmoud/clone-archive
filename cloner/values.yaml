@@ -11,7 +11,7 @@ configs:
     ls -lh $1 >> alllogs/ls
     md5sum $1 >> alllogs/md5
     sha256sum $1 >> alllogs/sha256
-    rclone copyto ./"$1" osn:"bir190004-bucket01/$2" -v 2>&1 | tee alllogs/osn.log
+    rclone copyto ./"$1" osn:"bir190004-bucket01/biorefdata/bioconductor/v1/$2" -v 2>&1 | tee alllogs/osn.log
     rclone copyto ./"$1" awsopendata:"biorefdata/bioconductor/v1/$2" -v 2>&1 | tee alllogs/awsopendata.log
     rclone copyto alllogs osn:"bir190004-bucket01/archive-meta/$2" -v
 
