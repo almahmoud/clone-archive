@@ -1,0 +1,7 @@
+annotationhub/ncbi/uniprot/3.15/org.Glycine_max.eg.sqlite
+annotationhub/ncbi/uniprot/3.15/org.Phaseolus_max.eg.sqlite
+annotationhub/AHEnsDbs/v106/EnsDb.Enaucrates.v106.sqlite
+annotationhub/AHMeSHDbs/v003/MeSH.Ame.eg.db.sqlite
+annotationhub/AHEnsDbs/v106/EnsDb.Sorbicularis.v106.sqlite
+annotationhub/AHEnsDbs/v106/EnsDb.Cgobio.v106.sqlite
+annotationhub/AHMeSHDbs/v003/MeSH.Cja.eg.db.sqlite

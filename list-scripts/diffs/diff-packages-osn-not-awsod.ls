@@ -1,0 +1,12 @@
+       66 3.14/bioc/news/svaNUMT/NEWS
+       67 3.14/bioc/news/m6Aboost/NEWS
+      194 3.14/bioc/news/networkBMA/NEWS
+      370 3.14/data/annotation/bin/macosx/contrib/4.2
+      372 3.14/data/annotation/bin/windows/contrib/4.2
+     1132 3.14/bioc/readmes/plier/README
+    11381 3.14/bioc/news/sevenbridges/NEWS
+   187002 3.14/bioc/src/contrib/PACKAGES.gz
+   372741 3.14/bioc/src/contrib/MBCB_1.48.0.tar.gz
+  1065055 3.14/bioc/src/contrib/AnnotationHub_3.2.2.tar.gz
+  1223747 3.14/bioc/bin/macosx/contrib/4.1/omicplotR_1.14.0.tgz
+  1546933 3.14/bioc/src/contrib/TimeSeriesExperiment_1.12.0.tar.gz

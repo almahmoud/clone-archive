@@ -3,7 +3,7 @@
 RAWDIR=${1:-archive}
 
 # Remove dirs
-cat list-scripts/$RAWDIR.raw | awk  '{print $2" "$1}' > list-scripts/$RAWDIR.sizes
+cat list-scripts/$RAWDIR.ls | awk  '{print $2" "$1}' > list-scripts/$RAWDIR.sizes
 
 sizelimit=${2:-10000000000} # in B
 filenumlimit=${3:-50} # 200 files max

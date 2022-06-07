@@ -3,5 +3,5 @@
 cd lists
 listdir=${1:-archive}
 todo=${2:-todo.txt}
-ls $listdir/* | sort -V > $todo
+ls $listdir/* | sort -V >> $todo
 cd ..
