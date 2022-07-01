@@ -7,21 +7,23 @@ configs:
   hash_and_push.sh: |
     #!/bin/sh
     set -x
-    mkdir -p alllogs
-    ls -lh $1 >> alllogs/ls
-    md5sum $1 >> alllogs/md5
-    sha256sum $1 >> alllogs/sha256
-    rclone copyto ./"$1" osn:"bir190004-bucket01/biorefdata/bioconductor/v1/$2" -v 2>&1 | tee alllogs/osn.log
-    rclone copyto ./"$1" awsopendata:"biorefdata/bioconductor/v1/$2" -v 2>&1 | tee alllogs/awsopendata.log
-    rclone copyto alllogs osn:"bir190004-bucket01/archive-meta/$2" -v
+    #mkdir -p alllogs
+    #ls -lh $1 >> alllogs/ls
+    #md5sum $1 >> alllogs/md5
+    #sha256sum $1 >> alllogs/sha256
+    #rclone copyto ./"$1" osn:"bir190004-bucket01/biorefdata/bioconductor/v1/$2" -v 2>&1 | tee alllogs/osn.log
+    #rclone copyto alllogs osn:"bir190004-bucket01/archive-meta/$2" -v
+    rclone copyto ./"$1" js2:"$2" -v
 
   pull_and_upload.sh: |
     #!/bin/sh
     set -x
     mkdir -p "~/$1";
     export FILENAME=$(basename "$1")
-    export HUB=$(echo "$1" | awk -F/ '{print $1}')
-    cd "~/$1" && rclone copyto "${HUB}azure":"$1" ./"$FILENAME" -v && ls -lh . && /bin/sh /mnt/configs/hash_and_push.sh "$FILENAME" "$1"
+    #export HUB=$(echo "$1" | awk -F/ '{print $1}')
+    #cd "~/$1" && rclone copyto "${HUB}azure":"$1" ./"$FILENAME" -v && ls -lh . && /bin/sh /mnt/configs/hash_and_push.sh "$FILENAME" "$1"
+    #export HUB=$(echo "$1" | awk -F/ '{print $1}')
+    cd "~/$1" && rclone copyto osn:"/bir190004-bucket01/$1" ./"$FILENAME" -v && ls -lh . && /bin/sh /mnt/configs/hash_and_push.sh "$FILENAME" "$1"
 
 cloneJob:
   image: rclone/rclone:latest

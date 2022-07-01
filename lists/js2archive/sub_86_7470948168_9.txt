@@ -1,0 +1,9 @@
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/BSgenome.Hsapiens.UCSC.hg17_1.3.17.zip
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/BSgenome.Hsapiens.UCSC.hg18_1.3.19.zip
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/BSgenome.Hsapiens.UCSC.hg19_1.3.19.zip
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/BSgenome.Mmulatta.UCSC.rheMac2_1.3.17.zip
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/BSgenome.Mmusculus.UCSC.mm10_1.3.19.zip
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/BSgenome.Mmusculus.UCSC.mm8_1.3.17.zip
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/BSgenome.Mmusculus.UCSC.mm9_1.3.19.zip
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/BSgenome.Ptroglodytes.UCSC.panTro2_1.3.17.zip
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/BSgenome.Ptroglodytes.UCSC.panTro3_1.3.17.zip

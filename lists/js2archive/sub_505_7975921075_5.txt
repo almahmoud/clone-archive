@@ -1,0 +1,5 @@
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/MafDb.gnomAD.r2.1.hs37d5_3.8.0.tar.gz
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/MafDb.gnomADex.r2.0.1.GRCh38_3.9.0.tar.gz
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/MafDb.gnomADex.r2.1.GRCh38_3.9.0.tar.gz
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/MafDb.gnomADex.r2.1.hs37d5_3.8.0.tar.gz
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/MeSH.AOR.db_1.12.0.tar.gz
