@@ -1,0 +1,9 @@
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/MafDb.1Kgenomes.phase3.hs37d5_3.7.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/MafDb.ESP6500SI.V2.SSA137.GRCh38_3.7.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/MafDb.ESP6500SI.V2.SSA137.hs37d5_3.7.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/MafDb.ExAC.r1.0.GRCh38_3.7.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/MafDb.ExAC.r1.0.hs37d5_3.7.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/MafDb.ExAC.r1.0.nonTCGA.GRCh38_3.7.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/MafDb.ExAC.r1.0.nonTCGA.hs37d5_3.7.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/MafDb.TOPMed.freeze5.hg19_3.7.1.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/MafDb.TOPMed.freeze5.hg38_3.7.1.tar.gz
