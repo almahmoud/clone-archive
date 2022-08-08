@@ -1,4 +1,3 @@
-archiveaug22/sub_100_173611123_200.txt
 archiveaug22/sub_101_175397187_200.txt
 archiveaug22/sub_102_177439119_200.txt
 archiveaug22/sub_103_179524640_200.txt
