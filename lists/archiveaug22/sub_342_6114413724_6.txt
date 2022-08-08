@@ -1,0 +1,6 @@
+archive.bioconductor.org/packages/3.10/data/experiment/src/contrib/curatedOvarianData_1.24.0.tar.gz
+archive.bioconductor.org/packages/3.13/data/experiment/src/contrib/curatedOvarianData_1.30.0.tar.gz
+archive.bioconductor.org/packages/3.14/data/experiment/src/contrib/curatedOvarianData_1.32.0.tar.gz
+archive.bioconductor.org/packages/3.12/data/experiment/src/contrib/curatedOvarianData_1.28.0.tar.gz
+archive.bioconductor.org/packages/3.11/data/experiment/src/contrib/curatedOvarianData_1.26.0.tar.gz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP151.GRCh38_0.99.20.tar.gz

@@ -1,0 +1,11 @@
+archive.bioconductor.org/packages/3.14/data/experiment/src/contrib/ChAMPdata_2.26.0.tar.gz
+archive.bioconductor.org/packages/3.12/data/experiment/src/contrib/ChAMPdata_2.22.0.tar.gz
+archive.bioconductor.org/packages/3.13/data/experiment/src/contrib/ChAMPdata_2.24.0.tar.gz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/BSgenome.Mmulatta.UCSC.rheMac8_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.11/data/annotation/src/contrib/BSgenome.Mmulatta.UCSC.rheMac8_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.12/data/annotation/src/contrib/BSgenome.Mmulatta.UCSC.rheMac8_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.13/data/annotation/src/contrib/BSgenome.Mmulatta.UCSC.rheMac8_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.14/data/annotation/src/contrib/BSgenome.Mmulatta.UCSC.rheMac8_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.13/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38.dbSNP151.major_0.0.9999.tar.gz
+archive.bioconductor.org/packages/3.14/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38.dbSNP151.major_0.0.9999.tar.gz
+archive.bioconductor.org/packages/3.11/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38_1.4.3.tar.gz

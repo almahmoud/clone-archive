@@ -1,0 +1,13 @@
+archive.bioconductor.org/packages/3.10/data/experiment/src/contrib/synapterdata_1.24.0.tar.gz
+archive.bioconductor.org/packages/3.14/data/experiment/src/contrib/synapterdata_1.31.0.tar.gz
+archive.bioconductor.org/packages/3.13/data/experiment/src/contrib/synapterdata_1.30.0.tar.gz
+archive.bioconductor.org/packages/3.11/data/experiment/src/contrib/msdata_0.28.0.tar.gz
+archive.bioconductor.org/packages/3.10/data/experiment/src/contrib/msdata_0.26.0.tar.gz
+archive.bioconductor.org/packages/3.12/data/experiment/src/contrib/msdata_0.30.0.tar.gz
+archive.bioconductor.org/packages/3.13/data/experiment/src/contrib/msdata_0.32.0.tar.gz
+archive.bioconductor.org/packages/3.12/data/experiment/src/contrib/geuvStore2_1.19.0.tar.gz
+archive.bioconductor.org/packages/3.10/data/experiment/src/contrib/geuvStore2_1.16.0.tar.gz
+archive.bioconductor.org/packages/3.11/data/experiment/src/contrib/geuvStore2_1.18.0.tar.gz
+archive.bioconductor.org/packages/3.14/data/experiment/src/contrib/msdata_0.34.0.tar.gz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/reactome.db_1.70.0.tar.gz
+archive.bioconductor.org/packages/3.11/data/annotation/src/contrib/reactome.db_1.70.0.tar.gz

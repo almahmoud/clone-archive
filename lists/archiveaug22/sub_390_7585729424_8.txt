@@ -1,0 +1,8 @@
+archive.bioconductor.org/packages/3.12/data/experiment/src/contrib/Single.mTEC.Transcriptomes_1.18.0.tar.gz
+archive.bioconductor.org/packages/3.11/data/experiment/src/contrib/Single.mTEC.Transcriptomes_1.16.0.tar.gz
+archive.bioconductor.org/packages/3.10/data/experiment/src/contrib/Single.mTEC.Transcriptomes_1.14.0.tar.gz
+archive.bioconductor.org/packages/3.13/data/experiment/src/contrib/Single.mTEC.Transcriptomes_1.20.0.tar.gz
+archive.bioconductor.org/packages/3.14/data/experiment/src/contrib/Single.mTEC.Transcriptomes_1.22.0.tar.gz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP149.GRCh38_0.99.20.tar.gz
+archive.bioconductor.org/packages/3.11/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP149.GRCh38_0.99.20.tar.gz
+archive.bioconductor.org/packages/3.12/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP149.GRCh38_0.99.20.tar.gz

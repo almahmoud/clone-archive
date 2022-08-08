@@ -1,0 +1,16 @@
+archive.bioconductor.org/packages/3.11/data/annotation/src/contrib/silva128.1MgDb_1.00.0.tar.gz
+archive.bioconductor.org/packages/3.12/data/annotation/src/contrib/silva128.1MgDb_1.00.0.tar.gz
+archive.bioconductor.org/packages/3.13/data/annotation/src/contrib/silva128.1MgDb_1.00.0.tar.gz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/BSgenome.Drerio.UCSC.danRer7_1.4.0.tar.gz
+archive.bioconductor.org/packages/3.11/data/annotation/src/contrib/BSgenome.Drerio.UCSC.danRer7_1.4.0.tar.gz
+archive.bioconductor.org/packages/3.12/data/annotation/src/contrib/BSgenome.Drerio.UCSC.danRer7_1.4.0.tar.gz
+archive.bioconductor.org/packages/3.13/data/annotation/src/contrib/BSgenome.Drerio.UCSC.danRer7_1.4.0.tar.gz
+archive.bioconductor.org/packages/3.14/data/annotation/src/contrib/BSgenome.Drerio.UCSC.danRer7_1.4.0.tar.gz
+archive.bioconductor.org/packages/3.11/data/experiment/src/contrib/Affyhgu133aExpr_1.26.0.tar.gz
+archive.bioconductor.org/packages/3.10/data/experiment/src/contrib/Affyhgu133aExpr_1.24.0.tar.gz
+archive.bioconductor.org/packages/3.12/data/experiment/src/contrib/Affyhgu133aExpr_1.28.0.tar.gz
+archive.bioconductor.org/packages/3.14/data/experiment/src/contrib/Affyhgu133aExpr_1.32.0.tar.gz
+archive.bioconductor.org/packages/3.13/data/experiment/src/contrib/Affyhgu133aExpr_1.30.0.tar.gz
+archive.bioconductor.org/packages/3.11/data/experiment/src/contrib/yri1kgv_0.30.0.tar.gz
+archive.bioconductor.org/packages/3.12/data/experiment/src/contrib/yri1kgv_0.32.0.tar.gz
+archive.bioconductor.org/packages/3.10/data/experiment/src/contrib/yri1kgv_0.28.0.tar.gz
