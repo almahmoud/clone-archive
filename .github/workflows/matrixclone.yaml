@@ -93,7 +93,7 @@ jobs:
         if: steps.list2.outcome=='success'
 
       - name: Get logs and events
-        run: sh -c "while true; do kubectl get events > /tmp/events && tail -n 100 /tmp/events && sleep 5 && kubectl logs $(kubectl get pods | grep -o 'data-clone-[^ ]*')  > /tmp/logs && tail -n 100 /tmp/logs && sleep 5; done;" & kubectl wait --for=condition=complete --timeout=6000s job/data-clone
+        run: sh -c "while true; do kubectl get events > /tmp/events && tail -n 100 /tmp/events && sleep 5 && kubectl logs $(kubectl get pods | grep -o 'data-clone-[^ ]*')  > /tmp/logs && tail -n 100 /tmp/logs && sleep 5; done;" & kubectl wait --for=condition=complete --timeout=15000s job/data-clone
         continue-on-error: true
 
       - name: Done list 1
