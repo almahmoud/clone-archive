@@ -1,0 +1,4 @@
+archive.bioconductor.org/packages/3.0/data/annotation/src/contrib/pd.genomewidesnp.6_3.10.0.tar.gz
+archive.bioconductor.org/packages/3.0/data/annotation/bin/macosx/contrib/3.1/pd.genomewidesnp.6_3.10.0.tgz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/MafDb.1Kgenomes.phase1.GRCh38_3.10.0.tar.gz
+archive.bioconductor.org/packages/3.0/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm8_1.4.0.tar.gz

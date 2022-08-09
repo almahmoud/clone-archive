@@ -1,0 +1,2 @@
+archive.bioconductor.org/packages/3.0/data/experiment/bin/macosx/contrib/3.1/ChIPXpressData_1.3.2.tgz
+archive.bioconductor.org/packages/2.13/data/experiment/bin/macosx/contrib/3.0/ChIPXpressData_1.0.1.tgz

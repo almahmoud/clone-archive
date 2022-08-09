@@ -1,0 +1,6 @@
+archive.bioconductor.org/packages/3.0/data/annotation/bin/macosx/contrib/3.1/BSgenome.Mmusculus.UCSC.mm10_1.4.0.tgz
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/KEGGdzPathwaysGEO_1.3.1.zip
+archive.bioconductor.org/packages/2.14/data/experiment/bin/windows/contrib/3.1/KEGGdzPathwaysGEO_1.2.0.zip
+archive.bioconductor.org/packages/3.14/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm39_1.4.3.tar.gz
+archive.bioconductor.org/packages/2.14/data/experiment/bin/windows/contrib/3.1/curatedOvarianData_1.2.0.zip
+archive.bioconductor.org/packages/3.0/data/annotation/src/contrib/BSgenome.Mmulatta.UCSC.rheMac2_1.4.0.tar.gz

@@ -1,0 +1,3 @@
+archive.bioconductor.org/packages/3.3/data/annotation/src/contrib/MafDb.1Kgenomes.phase3.hs37d5_3.3.0.tar.gz
+archive.bioconductor.org/packages/3.1/data/annotation/src/contrib/MafDb.ALL.wgs.phase3.release.v5a.20130502_3.1.0.tar.gz
+archive.bioconductor.org/packages/3.7/data/annotation/src/contrib/MafDb.1Kgenomes.phase3.GRCh38_3.7.0.tar.gz

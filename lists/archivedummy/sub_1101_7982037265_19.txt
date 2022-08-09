@@ -1,0 +1,2 @@
+archive.bioconductor.org/packages/2.9/data/annotation/src/contrib/oligoData_1.4.0.tar.gz
+archive.bioconductor.org/packages/2.12/data/annotation/bin/macosx/contrib/3.0/oligoData_1.8.0.tgz

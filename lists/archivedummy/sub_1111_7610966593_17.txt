@@ -1,0 +1,17 @@
+archive.bioconductor.org/packages/3.10/data/experiment/src/contrib/geuvStore2_1.16.0.tar.gz
+archive.bioconductor.org/packages/3.11/data/experiment/src/contrib/geuvStore2_1.18.0.tar.gz
+archive.bioconductor.org/packages/3.9/data/experiment/src/contrib/geuvStore2_1.14.0.tar.gz
+archive.bioconductor.org/packages/3.4/data/experiment/src/contrib/geuvStore2_1.4.0.tar.gz
+archive.bioconductor.org/packages/3.5/data/experiment/src/contrib/geuvStore2_1.6.0.tar.gz
+archive.bioconductor.org/packages/3.3/data/experiment/src/contrib/geuvStore2_1.2.2.tar.gz
+archive.bioconductor.org/packages/3.4/data/annotation/src/contrib/MeSH.Hsa.eg.db_1.7.0.tar.gz
+archive.bioconductor.org/packages/3.3/data/experiment/src/contrib/synapterdata_1.10.0.tar.gz
+archive.bioconductor.org/packages/3.4/data/experiment/src/contrib/synapterdata_1.12.0.tar.gz
+archive.bioconductor.org/packages/3.1/data/experiment/src/contrib/synapterdata_1.6.0.tar.gz
+archive.bioconductor.org/packages/3.0/data/experiment/src/contrib/synapterdata_1.3.2.tar.gz
+archive.bioconductor.org/packages/3.2/data/experiment/src/contrib/synapterdata_1.8.0.tar.gz
+archive.bioconductor.org/packages/3.0/data/experiment/bin/macosx/contrib/3.1/synapterdata_1.3.2.tgz
+archive.bioconductor.org/packages/2.14/data/experiment/bin/windows/contrib/3.1/mammaPrintData_1.0.0.zip
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/mammaPrintData_1.1.1.zip
+archive.bioconductor.org/packages/3.2/data/annotation/src/contrib/reactome.db_1.54.1.tar.gz
+archive.bioconductor.org/packages/3.7/workflows/webvigs/proteomics/TMT_Erwinia_1uLSike_Top10HCD_isol2_45stepped_60min_01-20141210.mzML

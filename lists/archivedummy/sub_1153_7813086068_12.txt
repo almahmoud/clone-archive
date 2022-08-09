@@ -1,0 +1,2 @@
+archive.bioconductor.org/packages/3.12/data/annotation/src/contrib/BSgenome.Ppaniscus.UCSC.panPan1_1.4.3.tar.gz
+archive.bioconductor.org/packages/3.12/data/annotation/src/contrib/BSgenome.Ppaniscus.UCSC.panPan2_1.4.3.tar.gz

@@ -1,0 +1,10 @@
+archive.bioconductor.org/packages/2.10/data/annotation/src/contrib/BSgenome.Drerio.UCSC.danRer6_1.3.17.tar.gz
+archive.bioconductor.org/packages/2.7/data/annotation/src/contrib/BSgenome.Drerio.UCSC.danRer6_1.3.16.tar.gz
+archive.bioconductor.org/packages/2.12/data/annotation/bin/macosx/contrib/3.0/BSgenome.Drerio.UCSC.danRer6_1.3.17.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/macosx/leopard/contrib/2.15/BSgenome.Drerio.UCSC.danRer6_1.3.17.tgz
+archive.bioconductor.org/packages/2.9/data/annotation/bin/macosx/leopard/contrib/2.14/BSgenome.Drerio.UCSC.danRer6_1.3.17.tgz
+archive.bioconductor.org/packages/2.10/data/annotation/bin/macosx/leopard/contrib/2.15/BSgenome.Drerio.UCSC.danRer6_1.3.17.tgz
+archive.bioconductor.org/packages/2.8/data/annotation/bin/windows/contrib/2.13/BSgenome.Drerio.UCSC.danRer6_1.3.17.zip
+archive.bioconductor.org/packages/2.9/data/annotation/bin/windows/contrib/2.14/BSgenome.Drerio.UCSC.danRer6_1.3.17.zip
+archive.bioconductor.org/packages/2.10/data/annotation/bin/windows/contrib/2.15/BSgenome.Drerio.UCSC.danRer6_1.3.17.zip
+archive.bioconductor.org/packages/2.11/data/annotation/bin/windows/contrib/2.15/BSgenome.Drerio.UCSC.danRer6_1.3.17.zip

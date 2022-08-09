@@ -1,0 +1,8 @@
+archive.bioconductor.org/packages/2.10/data/annotation/bin/windows/contrib/2.15/BSgenome.Mmusculus.UCSC.mm10_1.3.17.zip
+archive.bioconductor.org/packages/2.11/data/annotation/bin/windows/contrib/2.15/BSgenome.Mmusculus.UCSC.mm10_1.3.19.zip
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/BSgenome.Mmusculus.UCSC.mm10_1.3.19.zip
+archive.bioconductor.org/packages/2.14/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm10_1.3.1000.tar.gz
+archive.bioconductor.org/packages/2.14/data/annotation/bin/macosx/contrib/3.1/BSgenome.Cfamiliaris.UCSC.canFam2_1.3.99.tgz
+archive.bioconductor.org/packages/2.14/data/annotation/bin/windows/contrib/3.1/BSgenome.Cfamiliaris.UCSC.canFam2_1.3.99.zip
+archive.bioconductor.org/packages/2.14/data/annotation/bin/macosx/contrib/3.1/BSgenome.Cfamiliaris.UCSC.canFam3_1.3.99.tgz
+archive.bioconductor.org/packages/2.14/data/annotation/bin/windows/contrib/3.1/BSgenome.Cfamiliaris.UCSC.canFam3_1.3.99.zip

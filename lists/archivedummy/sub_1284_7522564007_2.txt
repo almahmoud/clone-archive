@@ -1,0 +1,2 @@
+archive.bioconductor.org/packages/2.14/data/experiment/bin/macosx/contrib/3.1/ChIPXpressData_1.2.0.tgz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP151.GRCh38_0.99.20.tar.gz

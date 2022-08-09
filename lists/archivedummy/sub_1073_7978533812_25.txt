@@ -1,0 +1,12 @@
+archive.bioconductor.org/packages/2.14/data/experiment/src/contrib/curatedOvarianData_1.2.0.tar.gz
+archive.bioconductor.org/packages/2.13/data/experiment/src/contrib/curatedOvarianData_1.0.5.tar.gz
+archive.bioconductor.org/packages/2.14/data/experiment/bin/windows/contrib/3.1/CopyNumber450kData_1.0.0.zip
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/CopyNumber450kData_1.1.1.zip
+archive.bioconductor.org/packages/3.5/data/annotation/src/contrib/greengenes13.5MgDb_1.0.0.tar.gz
+archive.bioconductor.org/packages/3.6/data/experiment/src/contrib/ELMER.data_2.2.2.tar.gz
+archive.bioconductor.org/packages/3.2/workflows/src/contrib/proteomics_0.99.109927.tar.gz
+archive.bioconductor.org/packages/3.0/data/experiment/bin/macosx/contrib/3.1/seqc_1.0.0.tgz
+archive.bioconductor.org/packages/3.1/workflows/src/contrib/proteomics_0.99.104813.tar.gz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/BSgenome.Drerio.UCSC.danRer10_1.4.2.tar.gz
+archive.bioconductor.org/packages/2.4/data/experiment/bin/windows/contrib/2.9/ccTutorial_1.0.4.zip
+archive.bioconductor.org/packages/2.5/data/experiment/bin/windows/contrib/2.10/yeastRNASeq_0.0.3.zip

@@ -1,0 +1,13 @@
+archive.bioconductor.org/packages/2.9/data/annotation/bin/windows/contrib/2.14/oligoData_1.4.0.zip
+archive.bioconductor.org/packages/2.10/data/annotation/bin/windows/contrib/2.15/oligoData_1.6.0.zip
+archive.bioconductor.org/packages/2.11/data/annotation/bin/windows/contrib/2.15/oligoData_1.8.0.zip
+archive.bioconductor.org/packages/2.7/data/annotation/bin/macosx/leopard/contrib/2.12/oligoData_1.0.0.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/macosx/leopard/contrib/2.15/oligoData_1.8.0.tgz
+archive.bioconductor.org/packages/2.9/data/annotation/bin/macosx/leopard/contrib/2.14/oligoData_1.4.0.tgz
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/oligoData_1.8.0.zip
+archive.bioconductor.org/packages/2.10/data/annotation/bin/macosx/leopard/contrib/2.15/oligoData_1.6.0.tgz
+archive.bioconductor.org/packages/2.7/data/annotation/bin/windows/contrib/2.12/oligoData_1.0.0.zip
+archive.bioconductor.org/packages/2.8/data/annotation/bin/macosx/leopard/contrib/2.13/oligoData_1.2.0.tgz
+archive.bioconductor.org/packages/2.8/data/annotation/src/contrib/pd.genomewidesnp.5_1.2.2.tar.gz
+archive.bioconductor.org/packages/2.1/data/annotation/src/contrib/pd.mapping250k.sty_0.3.4.tar.gz
+archive.bioconductor.org/packages/2.1/data/annotation/bin/windows/contrib/2.6/pd.mapping250k.sty_0.3.4.zip

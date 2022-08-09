@@ -1,0 +1,13 @@
+archive.bioconductor.org/packages/2.12/data/annotation/bin/macosx/contrib/3.0/humanomni25quadv1bCrlmm_1.0.2.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/macosx/leopard/contrib/2.15/humanomni25quadv1bCrlmm_1.0.2.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/windows/contrib/2.15/humanomni25quadv1bCrlmm_1.0.2.zip
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/humanomni25quadv1bCrlmm_1.0.2.zip
+archive.bioconductor.org/packages/2.14/data/annotation/src/contrib/humanomni258v1aCrlmm_1.0.3.tar.gz
+archive.bioconductor.org/packages/2.14/data/annotation/bin/macosx/contrib/3.1/humanomni258v1aCrlmm_1.0.3.tgz
+archive.bioconductor.org/packages/2.14/data/annotation/bin/windows/contrib/3.1/humanomni258v1aCrlmm_1.0.3.zip
+archive.bioconductor.org/packages/3.11/data/experiment/src/contrib/macrophage_1.4.0.tar.gz
+archive.bioconductor.org/packages/3.12/data/experiment/src/contrib/macrophage_1.6.0.tar.gz
+archive.bioconductor.org/packages/3.14/data/experiment/src/contrib/macrophage_1.10.0.tar.gz
+archive.bioconductor.org/packages/3.13/data/experiment/src/contrib/macrophage_1.8.0.tar.gz
+archive.bioconductor.org/packages/2.2/data/annotation/bin/windows/contrib/2.7/pd.genomewidesnp.6_0.4.2.zip
+archive.bioconductor.org/packages/2.3/data/annotation/bin/windows/contrib/2.8/pd.genomewidesnp.6_0.4.2.zip

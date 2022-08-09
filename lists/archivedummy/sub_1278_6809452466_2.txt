@@ -1,0 +1,2 @@
+archive.bioconductor.org/packages/3.11/data/experiment/src/contrib/ChIPXpressData_1.26.0.tar.gz
+archive.bioconductor.org/packages/2.14/data/experiment/src/contrib/ChIPXpressData_1.2.0.tar.gz

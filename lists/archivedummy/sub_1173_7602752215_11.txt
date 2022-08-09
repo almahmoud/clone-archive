@@ -1,0 +1,6 @@
+archive.bioconductor.org/packages/3.9/data/experiment/src/contrib/ListerEtAlBSseq_1.16.0.tar.gz
+archive.bioconductor.org/packages/3.11/data/experiment/src/contrib/ListerEtAlBSseq_1.20.0.tar.gz
+archive.bioconductor.org/packages/3.13/data/experiment/src/contrib/ListerEtAlBSseq_1.24.0.tar.gz
+archive.bioconductor.org/packages/3.0/data/experiment/bin/macosx/contrib/3.1/ListerEtAlBSseq_1.0.1.tgz
+archive.bioconductor.org/packages/3.0/data/annotation/bin/windows/contrib/3.1/BSgenome.Ptroglodytes.UCSC.panTro2_1.4.0.zip
+archive.bioconductor.org/packages/3.0/data/annotation/src/contrib/BSgenome.Ptroglodytes.UCSC.panTro2_1.4.0.tar.gz

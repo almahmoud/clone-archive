@@ -1,0 +1,4 @@
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/ListerEtAlBSseq_1.0.1.zip
+archive.bioconductor.org/packages/3.7/workflows/webvigs/chipseqDB/SRR1145788.bam
+archive.bioconductor.org/packages/3.4/data/annotation/src/contrib/MafDb.1Kgenomes.phase3.hs37d5_3.4.0.tar.gz
+archive.bioconductor.org/packages/3.2/data/annotation/src/contrib/MafDb.ALL.wgs.phase3.release.v5b.20130502_3.2.0.tar.gz

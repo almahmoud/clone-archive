@@ -1,0 +1,7 @@
+archive.bioconductor.org/packages/2.13/data/experiment/src/contrib/synapterdata_1.0.1.tar.gz
+archive.bioconductor.org/packages/2.11/data/experiment/src/contrib/synapterdata_0.99.3.tar.gz
+archive.bioconductor.org/packages/2.11/data/experiment/bin/macosx/leopard/contrib/2.15/synapterdata_0.99.3.tgz
+archive.bioconductor.org/packages/2.11/data/experiment/bin/windows/contrib/2.15/synapterdata_0.99.3.zip
+archive.bioconductor.org/packages/2.12/data/experiment/bin/windows/contrib/2.16/synapterdata_1.0.0.zip
+archive.bioconductor.org/packages/2.13/data/experiment/bin/windows/contrib/3.0/synapterdata_1.0.1.zip
+archive.bioconductor.org/packages/3.1/data/annotation/src/contrib/pd.genomewidesnp.5_3.14.1.tar.gz

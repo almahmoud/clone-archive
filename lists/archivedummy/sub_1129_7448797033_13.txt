@@ -1,0 +1,7 @@
+archive.bioconductor.org/packages/3.0/data/annotation/bin/macosx/contrib/3.1/BSgenome.Cfamiliaris.UCSC.canFam3_1.4.0.tgz
+archive.bioconductor.org/packages/3.0/data/annotation/bin/windows/contrib/3.1/BSgenome.Cfamiliaris.UCSC.canFam3_1.4.0.zip
+archive.bioconductor.org/packages/3.2/data/experiment/src/contrib/RTCGA.rnaseq_1.0.0.tar.gz
+archive.bioconductor.org/packages/2.14/data/annotation/bin/windows/contrib/3.1/org.MeSH.Dya.db_1.0.0.zip
+archive.bioconductor.org/packages/2.6/data/annotation/src/contrib/pd.genomewidesnp.6_1.0.0.tar.gz
+archive.bioconductor.org/packages/2.6/data/annotation/bin/windows/contrib/2.11/pd.genomewidesnp.6_1.0.0.zip
+archive.bioconductor.org/packages/2.14/data/experiment/bin/windows/contrib/3.1/ceu1kgv_0.6.0.zip

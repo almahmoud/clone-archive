@@ -1,0 +1,12 @@
+archive.bioconductor.org/packages/2.2/data/experiment/bin/macosx/universal/contrib/2.7/davidTiling_1.2.8.tgz
+archive.bioconductor.org/packages/2.1/data/experiment/bin/macosx/universal/contrib/2.6/davidTiling_1.2.5.tgz
+archive.bioconductor.org/packages/2.0/data/experiment/bin/macosx/universal/contrib/2.5/davidTiling_1.2.4.tgz
+archive.bioconductor.org/packages/1.9/data/experiment/bin/macosx/universal/contrib/2.4/davidTiling_1.2.1.tgz
+archive.bioconductor.org/packages/2.4/data/experiment/bin/macosx/leopard/contrib/2.9/davidTiling_1.2.9.tgz
+archive.bioconductor.org/packages/2.3/data/experiment/bin/macosx/leopard/contrib/2.8/davidTiling_1.2.8.tgz
+archive.bioconductor.org/packages/2.3/data/experiment/bin/macosx/universal/contrib/2.8/davidTiling_1.2.8.tgz
+archive.bioconductor.org/packages/2.4/data/experiment/bin/macosx/universal/contrib/2.9/davidTiling_1.2.9.tgz
+archive.bioconductor.org/packages/2.2/data/experiment/bin/windows/contrib/2.7/davidTiling_1.2.8.zip
+archive.bioconductor.org/packages/2.1/data/experiment/bin/windows/contrib/2.6/davidTiling_1.2.5.zip
+archive.bioconductor.org/packages/1.9/data/experiment/bin/windows/contrib/2.4/davidTiling_1.2.1.zip
+archive.bioconductor.org/packages/2.0/data/experiment/bin/windows/contrib/2.5/davidTiling_1.2.4.zip

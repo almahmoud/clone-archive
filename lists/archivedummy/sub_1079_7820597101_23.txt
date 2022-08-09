@@ -1,0 +1,9 @@
+archive.bioconductor.org/packages/2.2/data/annotation/bin/windows/contrib/2.7/pd.mapping250k.sty_0.4.1.zip
+archive.bioconductor.org/packages/2.3/data/annotation/bin/windows/contrib/2.8/pd.mapping250k.sty_0.4.1.zip
+archive.bioconductor.org/packages/2.4/data/annotation/bin/windows/contrib/2.9/pd.mapping250k.sty_0.4.1.zip
+archive.bioconductor.org/packages/2.5/data/annotation/bin/windows/contrib/2.10/pd.mapping250k.sty_0.4.1.zip
+archive.bioconductor.org/packages/2.13/data/experiment/bin/macosx/contrib/3.0/yri1kgv_0.5.2.tgz
+archive.bioconductor.org/packages/3.0/data/experiment/bin/macosx/contrib/3.1/yri1kgv_0.7.1.tgz
+archive.bioconductor.org/packages/2.14/data/experiment/bin/macosx/contrib/3.1/yri1kgv_0.6.0.tgz
+archive.bioconductor.org/packages/2.14/data/annotation/src/contrib/BSgenome.Tguttata.UCSC.taeGut1_1.3.1000.tar.gz
+archive.bioconductor.org/packages/3.0/data/annotation/src/contrib/BSgenome.Drerio.UCSC.danRer5_1.4.0.tar.gz

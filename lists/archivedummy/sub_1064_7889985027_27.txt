@@ -1,0 +1,14 @@
+archive.bioconductor.org/packages/3.1/data/experiment/src/contrib/ccTutorial_1.6.0.tar.gz
+archive.bioconductor.org/packages/2.8/data/experiment/src/contrib/ccTutorial_1.0.17.tar.gz
+archive.bioconductor.org/packages/2.7/data/experiment/src/contrib/ccTutorial_1.0.17.tar.gz
+archive.bioconductor.org/packages/2.5/data/experiment/src/contrib/ccTutorial_1.0.17.tar.gz
+archive.bioconductor.org/packages/2.12/data/experiment/bin/macosx/contrib/3.0/ccTutorial_1.0.23.tgz
+archive.bioconductor.org/packages/2.5/data/experiment/bin/windows/contrib/2.10/ccTutorial_1.0.17.zip
+archive.bioconductor.org/packages/2.10/data/experiment/bin/windows/contrib/2.15/ccTutorial_1.0.21.zip
+archive.bioconductor.org/packages/2.9/data/experiment/bin/windows/contrib/2.14/ccTutorial_1.0.20.zip
+archive.bioconductor.org/packages/2.11/data/experiment/bin/windows/contrib/2.15/ccTutorial_1.0.22.zip
+archive.bioconductor.org/packages/2.12/data/experiment/bin/windows/contrib/2.16/ccTutorial_1.0.23.zip
+archive.bioconductor.org/packages/2.7/data/experiment/bin/windows/contrib/2.12/ccTutorial_1.0.17.zip
+archive.bioconductor.org/packages/2.6/data/experiment/bin/windows/contrib/2.11/ccTutorial_1.0.17.zip
+archive.bioconductor.org/packages/2.8/data/experiment/bin/windows/contrib/2.13/ccTutorial_1.0.17.zip
+archive.bioconductor.org/packages/3.0/data/annotation/src/contrib/BSgenome.Tguttata.UCSC.taeGut1_1.4.0.tar.gz

@@ -1,0 +1,15 @@
+archive.bioconductor.org/packages/2.7/data/annotation/bin/macosx/leopard/contrib/2.12/BSgenome.Drerio.UCSC.danRer6_1.3.16.tgz
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/BSgenome.Drerio.UCSC.danRer6_1.3.17.zip
+archive.bioconductor.org/packages/2.7/data/annotation/bin/windows/contrib/2.12/BSgenome.Drerio.UCSC.danRer6_1.3.16.zip
+archive.bioconductor.org/packages/2.8/data/annotation/bin/macosx/leopard/contrib/2.13/BSgenome.Drerio.UCSC.danRer6_1.3.17.tgz
+archive.bioconductor.org/packages/3.14/data/experiment/src/contrib/msdata_0.34.0.tar.gz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/reactome.db_1.70.0.tar.gz
+archive.bioconductor.org/packages/2.14/data/experiment/bin/windows/contrib/3.1/cgdv17_0.2.0.zip
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/cgdv17_0.3.2.zip
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/MeSH.Mmu.eg.db_1.12.0.tar.gz
+archive.bioconductor.org/packages/2.1/data/annotation/src/contrib/pd.mapping250k.nsp_0.3.4.tar.gz
+archive.bioconductor.org/packages/2.1/data/annotation/bin/windows/contrib/2.6/pd.mapping250k.nsp_0.3.4.zip
+archive.bioconductor.org/packages/3.5/data/annotation/src/contrib/reactome.db_1.59.1.tar.gz
+archive.bioconductor.org/packages/2.4/data/annotation/bin/macosx/universal/contrib/2.9/pd.huex.1.0.st_2.3.0.tgz
+archive.bioconductor.org/packages/2.14/data/annotation/bin/macosx/contrib/3.1/BSgenome.Drerio.UCSC.danRer5_1.3.99.tgz
+archive.bioconductor.org/packages/2.14/data/annotation/bin/windows/contrib/3.1/BSgenome.Drerio.UCSC.danRer5_1.3.99.zip

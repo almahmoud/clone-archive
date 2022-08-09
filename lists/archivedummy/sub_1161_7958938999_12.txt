@@ -1,0 +1,11 @@
+archive.bioconductor.org/packages/3.1/data/experiment/src/contrib/MMDiffBamSubset_1.4.0.tar.gz
+archive.bioconductor.org/packages/3.11/data/experiment/src/contrib/MMDiffBamSubset_1.24.0.tar.gz
+archive.bioconductor.org/packages/3.14/data/experiment/src/contrib/MMDiffBamSubset_1.30.0.tar.gz
+archive.bioconductor.org/packages/3.13/data/experiment/src/contrib/MMDiffBamSubset_1.28.0.tar.gz
+archive.bioconductor.org/packages/2.12/data/experiment/bin/macosx/contrib/3.0/MMDiffBamSubset_0.99.3.tgz
+archive.bioconductor.org/packages/2.12/data/experiment/bin/windows/contrib/2.16/MMDiffBamSubset_0.99.3.zip
+archive.bioconductor.org/packages/2.13/data/experiment/bin/windows/contrib/3.0/MMDiffBamSubset_0.99.4.zip
+archive.bioconductor.org/packages/2.14/data/experiment/bin/macosx/contrib/3.1/MMDiffBamSubset_1.0.0.tgz
+archive.bioconductor.org/packages/2.13/data/experiment/bin/macosx/contrib/3.0/MMDiffBamSubset_0.99.4.tgz
+archive.bioconductor.org/packages/3.0/data/experiment/bin/macosx/contrib/3.1/MMDiffBamSubset_1.1.1.tgz
+archive.bioconductor.org/packages/3.1/data/annotation/src/contrib/BSgenome.Mfascicularis.NCBI.5.0_1.4.2.tar.gz

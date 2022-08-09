@@ -1,0 +1,6 @@
+archive.bioconductor.org/packages/3.14/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38.dbSNP151.minor_0.0.9999.tar.gz
+archive.bioconductor.org/packages/3.7/workflows/webvigs/simpleSingleCell/pancreas_refseq_rpkms_counts_3514sc.txt
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/MafDb.TOPMed.freeze5.hg38_3.9.0.tar.gz
+archive.bioconductor.org/packages/3.14/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38_1.4.4.tar.gz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/MafDb.TOPMed.freeze5.hg19_3.10.0.tar.gz
+archive.bioconductor.org/packages/3.6/bioc/bin/windows/contrib/3.4/SwathXtend_2.0.0.zip

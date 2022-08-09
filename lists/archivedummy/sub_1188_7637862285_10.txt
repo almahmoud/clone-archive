@@ -1,0 +1,5 @@
+archive.bioconductor.org/packages/2.1/data/annotation/bin/windows/contrib/2.6/BSgenome.Mmusculus.UCSC.mm8_1.3.2.zip
+archive.bioconductor.org/packages/2.14/data/annotation/src/contrib/BSgenome.Mmulatta.UCSC.rheMac3_1.3.1000.tar.gz
+archive.bioconductor.org/packages/2.4/data/annotation/src/contrib/BSgenome.Rnorvegicus.UCSC.rn4_1.3.13.tar.gz
+archive.bioconductor.org/packages/2.10/data/annotation/src/contrib/BSgenome.Rnorvegicus.UCSC.rn4_1.3.17.tar.gz
+archive.bioconductor.org/packages/2.5/data/annotation/src/contrib/BSgenome.Rnorvegicus.UCSC.rn4_1.3.16.tar.gz

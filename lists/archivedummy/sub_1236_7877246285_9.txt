@@ -1,0 +1,9 @@
+archive.bioconductor.org/packages/2.10/data/annotation/bin/windows/contrib/2.15/BSgenome.Hsapiens.UCSC.hg18_1.3.17.zip
+archive.bioconductor.org/packages/2.6/data/annotation/bin/windows/contrib/2.11/BSgenome.Hsapiens.UCSC.hg18_1.3.16.zip
+archive.bioconductor.org/packages/2.8/data/annotation/bin/macosx/leopard/contrib/2.13/BSgenome.Hsapiens.UCSC.hg18_1.3.17.tgz
+archive.bioconductor.org/packages/2.2/data/annotation/src/contrib/BSgenome.Ptroglodytes.UCSC.panTro2_1.3.7.tar.gz
+archive.bioconductor.org/packages/2.2/data/annotation/bin/macosx/universal/contrib/2.7/BSgenome.Ptroglodytes.UCSC.panTro2_1.3.7.tgz
+archive.bioconductor.org/packages/2.2/data/annotation/bin/windows/contrib/2.7/BSgenome.Ptroglodytes.UCSC.panTro2_1.3.7.zip
+archive.bioconductor.org/packages/2.14/data/annotation/bin/macosx/contrib/3.1/BSgenome.Btaurus.UCSC.bosTau4_1.3.99.tgz
+archive.bioconductor.org/packages/2.14/data/annotation/bin/windows/contrib/3.1/BSgenome.Btaurus.UCSC.bosTau4_1.3.99.zip
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/Affymoe4302Expr_1.3.1.zip

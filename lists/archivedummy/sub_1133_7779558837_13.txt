@@ -1,0 +1,10 @@
+archive.bioconductor.org/packages/2.10/data/annotation/src/contrib/pd.genomewidesnp.6_1.6.0.tar.gz
+archive.bioconductor.org/packages/2.9/data/annotation/src/contrib/pd.genomewidesnp.6_1.4.0.tar.gz
+archive.bioconductor.org/packages/2.10/data/annotation/bin/macosx/leopard/contrib/2.15/pd.genomewidesnp.6_1.6.0.tgz
+archive.bioconductor.org/packages/2.9/data/annotation/bin/macosx/leopard/contrib/2.14/pd.genomewidesnp.6_1.4.0.tgz
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/pd.genomewidesnp.6_1.10.0.zip
+archive.bioconductor.org/packages/2.11/data/annotation/src/contrib/pd.genomewidesnp.6_1.8.0.tar.gz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/macosx/leopard/contrib/2.15/pd.genomewidesnp.6_1.8.0.tgz
+archive.bioconductor.org/packages/2.14/data/experiment/bin/windows/contrib/3.1/Affyhgu133aExpr_0.99.0.zip
+archive.bioconductor.org/packages/3.0/data/annotation/bin/windows/contrib/3.1/pd.genomewidesnp.6_3.10.0.zip
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/MafDb.1Kgenomes.phase1.hs37d5_3.10.0.tar.gz

@@ -1,0 +1,7 @@
+archive.bioconductor.org/packages/3.0/data/annotation/bin/windows/contrib/3.1/BSgenome.Drerio.UCSC.danRer6_1.4.0.zip
+archive.bioconductor.org/packages/3.0/data/annotation/bin/macosx/contrib/3.1/BSgenome.Drerio.UCSC.danRer6_1.4.0.tgz
+archive.bioconductor.org/packages/2.12/data/annotation/src/contrib/pd.mapping250k.sty_1.10.0.tar.gz
+archive.bioconductor.org/packages/3.0/data/annotation/src/contrib/pd.mapping250k.sty_3.10.0.tar.gz
+archive.bioconductor.org/packages/3.0/data/annotation/bin/macosx/contrib/3.1/pd.mapping250k.sty_3.10.0.tgz
+archive.bioconductor.org/packages/2.12/data/annotation/bin/macosx/contrib/3.0/pd.mapping250k.sty_1.10.0.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/windows/contrib/2.15/pd.mapping250k.sty_1.8.0.zip

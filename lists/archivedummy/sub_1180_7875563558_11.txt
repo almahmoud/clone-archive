@@ -1,0 +1,4 @@
+archive.bioconductor.org/packages/3.12/data/experiment/src/contrib/ChAMPdata_2.22.0.tar.gz
+archive.bioconductor.org/packages/3.13/data/experiment/src/contrib/ChAMPdata_2.24.0.tar.gz
+archive.bioconductor.org/packages/2.14/data/annotation/src/contrib/BSgenome.Sscrofa.UCSC.susScr3_1.3.1000.tar.gz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/BSgenome.Mmulatta.UCSC.rheMac8_1.4.2.tar.gz

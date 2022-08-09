@@ -1,0 +1,5 @@
+archive.bioconductor.org/packages/2.4/data/annotation/bin/windows/contrib/2.9/pd.genomewidesnp.6_0.4.2.zip
+archive.bioconductor.org/packages/2.5/data/annotation/bin/windows/contrib/2.10/pd.genomewidesnp.6_0.4.2.zip
+archive.bioconductor.org/packages/2.2/data/annotation/src/contrib/pd.genomewidesnp.6_0.4.2.tar.gz
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/MeSH.Hsa.eg.db_1.12.0.tar.gz
+archive.bioconductor.org/packages/2.13/data/annotation/src/contrib/humanomni25quadv1bCrlmm_1.0.2.tar.gz

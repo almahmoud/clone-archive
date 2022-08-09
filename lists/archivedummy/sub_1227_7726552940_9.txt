@@ -1,0 +1,7 @@
+archive.bioconductor.org/packages/2.1/data/annotation/bin/windows/contrib/2.6/BSgenome.Hsapiens.UCSC.hg18_1.3.1.zip
+archive.bioconductor.org/packages/2.0/data/annotation/bin/windows/contrib/2.5/BSgenome.Hsapiens.UCSC.hg18_1.2.0.zip
+archive.bioconductor.org/packages/1.8/data/annotation/bin/windows/contrib/2.3/HsapiensGenome.hg18_0.99.1.zip
+archive.bioconductor.org/packages/1.9/data/annotation/bin/windows/contrib/2.4/BSgenome.Hsapiens.UCSC.hg18_1.0.0.zip
+archive.bioconductor.org/packages/2.14/data/annotation/bin/macosx/contrib/3.1/BSgenome.Btaurus.UCSC.bosTau6_1.3.99.tgz
+archive.bioconductor.org/packages/2.14/data/annotation/bin/windows/contrib/3.1/BSgenome.Btaurus.UCSC.bosTau6_1.3.99.zip
+archive.bioconductor.org/packages/2.11/data/annotation/src/contrib/BSgenome.Ptroglodytes.UCSC.panTro3_1.3.17.tar.gz

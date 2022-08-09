@@ -1,0 +1,8 @@
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/waveTilingData_1.1.1.zip
+archive.bioconductor.org/packages/2.14/data/experiment/bin/windows/contrib/3.1/waveTilingData_1.0.0.zip
+archive.bioconductor.org/packages/3.7/data/annotation/src/contrib/MeSH.Hsa.eg.db_1.10.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/MeSH.Hsa.eg.db_1.11.0.tar.gz
+archive.bioconductor.org/packages/2.14/data/annotation/bin/windows/contrib/3.1/reactome.db_1.48.0.zip
+archive.bioconductor.org/packages/3.4/data/annotation/src/contrib/reactome.db_1.58.0.tar.gz
+archive.bioconductor.org/packages/3.10/data/experiment/src/contrib/macrophage_1.2.0.tar.gz
+archive.bioconductor.org/packages/2.11/data/annotation/src/contrib/humanomni25quadv1bCrlmm_1.0.2.tar.gz

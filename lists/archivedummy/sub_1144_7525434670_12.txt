@@ -1,0 +1,4 @@
+archive.bioconductor.org/packages/3.0/data/annotation/bin/windows/contrib/3.1/BSgenome.Btaurus.UCSC.bosTau6_1.4.0.zip
+archive.bioconductor.org/packages/3.0/data/annotation/bin/macosx/contrib/3.1/BSgenome.Btaurus.UCSC.bosTau6_1.4.0.tgz
+archive.bioconductor.org/packages/2.7/data/annotation/bin/macosx/leopard/contrib/2.12/pd.genomewidesnp.5_1.1.0.tgz
+archive.bioconductor.org/packages/3.0/data/annotation/bin/windows/contrib/3.1/BSgenome.Mmusculus.UCSC.mm10_1.4.0.zip

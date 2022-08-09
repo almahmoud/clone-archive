@@ -1,0 +1,8 @@
+archive.bioconductor.org/packages/3.0/data/experiment/bin/macosx/contrib/3.1/MafDb.ALL.wgs.phase1.release.v3.20101123_1.1.0.tgz
+archive.bioconductor.org/packages/2.14/data/experiment/bin/macosx/contrib/3.1/MafDb.ALL.wgs.phase1.release.v3.20101123_1.0.0.tgz
+archive.bioconductor.org/packages/2.14/data/experiment/bin/windows/contrib/3.1/yri1kgv_0.6.0.zip
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/yri1kgv_0.7.1.zip
+archive.bioconductor.org/packages/3.11/data/annotation/src/contrib/BSgenome.Mmulatta.UCSC.rheMac10_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/BSgenome.Mmulatta.UCSC.rheMac10_1.4.3.tar.gz
+archive.bioconductor.org/packages/3.5/data/experiment/src/contrib/ChAMPdata_2.8.1.tar.gz
+archive.bioconductor.org/packages/3.7/data/experiment/src/contrib/ChAMPdata_2.12.0.tar.gz

@@ -1,0 +1,2 @@
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/synapterdata_1.3.2.zip
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP144.GRCh38_0.99.20.tar.gz

@@ -1,0 +1,5 @@
+archive.bioconductor.org/packages/2.11/data/annotation/bin/macosx/leopard/contrib/2.15/BSgenome.Hsapiens.UCSC.hg19_1.3.19.tgz
+archive.bioconductor.org/packages/2.12/data/annotation/bin/macosx/contrib/3.0/BSgenome.Hsapiens.UCSC.hg19_1.3.19.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/windows/contrib/2.15/BSgenome.Hsapiens.UCSC.hg19_1.3.19.zip
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/BSgenome.Hsapiens.UCSC.hg19_1.3.19.zip
+archive.bioconductor.org/packages/2.10/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg19_1.3.17.tar.gz

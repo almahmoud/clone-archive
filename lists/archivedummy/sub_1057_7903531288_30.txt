@@ -1,0 +1,16 @@
+archive.bioconductor.org/packages/2.14/data/annotation/bin/macosx/contrib/3.1/reactome.db_1.48.0.tgz
+archive.bioconductor.org/packages/2.13/data/annotation/src/contrib/reactome.db_1.46.1.tar.gz
+archive.bioconductor.org/packages/2.13/data/annotation/bin/windows/contrib/3.0/reactome.db_1.46.1.zip
+archive.bioconductor.org/packages/2.14/data/experiment/bin/windows/contrib/3.1/ggtut_0.2.0.zip
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/ggtut_0.3.2.zip
+archive.bioconductor.org/packages/3.0/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP141.GRCh38_0.99.10.tar.gz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP141.GRCh38_0.99.11.tar.gz
+archive.bioconductor.org/packages/3.14/data/experiment/src/contrib/RnBeads.mm10_2.2.0.tar.gz
+archive.bioconductor.org/packages/2.9/data/annotation/bin/windows/contrib/2.14/pd.huex.1.0.st.v2_3.4.0.zip
+archive.bioconductor.org/packages/2.10/data/annotation/bin/windows/contrib/2.15/pd.huex.1.0.st.v2_3.6.0.zip
+archive.bioconductor.org/packages/2.9/data/annotation/src/contrib/pd.huex.1.0.st.v2_3.4.0.tar.gz
+archive.bioconductor.org/packages/2.9/data/annotation/bin/macosx/leopard/contrib/2.14/pd.huex.1.0.st.v2_3.4.0.tgz
+archive.bioconductor.org/packages/2.10/data/annotation/src/contrib/pd.huex.1.0.st.v2_3.6.0.tar.gz
+archive.bioconductor.org/packages/2.10/data/annotation/bin/macosx/leopard/contrib/2.15/pd.huex.1.0.st.v2_3.6.0.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/windows/contrib/2.15/reactome.db_1.42.0.zip
+archive.bioconductor.org/packages/2.11/data/annotation/src/contrib/reactome.db_1.42.0.tar.gz

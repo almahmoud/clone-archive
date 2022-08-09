@@ -1,0 +1,12 @@
+archive.bioconductor.org/packages/3.5/data/experiment/src/contrib/MMDiffBamSubset_1.12.0.tar.gz
+archive.bioconductor.org/packages/3.7/data/experiment/src/contrib/MMDiffBamSubset_1.16.0.tar.gz
+archive.bioconductor.org/packages/2.12/data/experiment/src/contrib/MMDiffBamSubset_0.99.3.tar.gz
+archive.bioconductor.org/packages/3.6/data/experiment/src/contrib/MMDiffBamSubset_1.14.0.tar.gz
+archive.bioconductor.org/packages/2.13/data/experiment/src/contrib/MMDiffBamSubset_0.99.4.tar.gz
+archive.bioconductor.org/packages/2.14/data/experiment/src/contrib/MMDiffBamSubset_1.0.0.tar.gz
+archive.bioconductor.org/packages/3.9/data/experiment/src/contrib/MMDiffBamSubset_1.20.0.tar.gz
+archive.bioconductor.org/packages/3.0/data/experiment/src/contrib/MMDiffBamSubset_1.1.1.tar.gz
+archive.bioconductor.org/packages/3.3/data/experiment/src/contrib/MMDiffBamSubset_1.8.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/experiment/src/contrib/MMDiffBamSubset_1.18.0.tar.gz
+archive.bioconductor.org/packages/3.10/data/experiment/src/contrib/MMDiffBamSubset_1.22.0.tar.gz
+archive.bioconductor.org/packages/3.12/data/experiment/src/contrib/MMDiffBamSubset_1.26.0.tar.gz

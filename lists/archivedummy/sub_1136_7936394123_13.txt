@@ -1,0 +1,2 @@
+archive.bioconductor.org/packages/3.0/data/annotation/bin/macosx/contrib/3.1/BSgenome.Mmusculus.UCSC.mm8_1.4.0.tgz
+archive.bioconductor.org/packages/3.0/data/annotation/src/contrib/BSgenome.Rnorvegicus.UCSC.rn4_1.4.0.tar.gz

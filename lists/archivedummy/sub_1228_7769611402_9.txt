@@ -1,0 +1,7 @@
+archive.bioconductor.org/packages/2.12/data/annotation/bin/macosx/contrib/3.0/BSgenome.Ptroglodytes.UCSC.panTro3_1.3.17.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/macosx/leopard/contrib/2.15/BSgenome.Ptroglodytes.UCSC.panTro3_1.3.17.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/windows/contrib/2.15/BSgenome.Ptroglodytes.UCSC.panTro3_1.3.17.zip
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/BSgenome.Ptroglodytes.UCSC.panTro3_1.3.17.zip
+archive.bioconductor.org/packages/2.14/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg19_1.3.1000.tar.gz
+archive.bioconductor.org/packages/2.14/data/experiment/bin/windows/contrib/3.1/synapterdata_1.2.0.zip
+archive.bioconductor.org/packages/2.14/data/annotation/bin/macosx/contrib/3.1/BSgenome.Mmusculus.UCSC.mm9_1.3.99.tgz

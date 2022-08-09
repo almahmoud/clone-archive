@@ -1,0 +1,7 @@
+archive.bioconductor.org/packages/2.11/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP.20120608_0.99.8.tar.gz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/macosx/leopard/contrib/2.15/SNPlocs.Hsapiens.dbSNP.20120608_0.99.8.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/windows/contrib/2.15/SNPlocs.Hsapiens.dbSNP.20120608_0.99.8.zip
+archive.bioconductor.org/packages/3.1/data/annotation/src/contrib/pd.raex.1.0.st.v1_3.14.1.tar.gz
+archive.bioconductor.org/packages/2.12/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP.20120608_0.99.9.tar.gz
+archive.bioconductor.org/packages/3.1/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP.20120608_0.99.10.tar.gz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP.20120608_0.99.11.tar.gz

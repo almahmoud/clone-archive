@@ -1,0 +1,4 @@
+archive.bioconductor.org/packages/2.3/data/experiment/bin/windows/contrib/2.8/davidTiling_1.2.8.zip
+archive.bioconductor.org/packages/2.4/data/experiment/bin/windows/contrib/2.9/davidTiling_1.2.9.zip
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/BSgenome.Cjacchus.UCSC.calJac3_1.4.2.tar.gz
+archive.bioconductor.org/packages/3.0/data/annotation/src/contrib/BSgenome.Btaurus.UCSC.bosTau4_1.4.0.tar.gz

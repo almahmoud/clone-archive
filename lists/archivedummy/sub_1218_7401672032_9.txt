@@ -1,0 +1,4 @@
+archive.bioconductor.org/packages/2.13/data/annotation/bin/windows/contrib/3.0/humanomni5quadv1bCrlmm_1.0.0.zip
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/curatedCRCData_1.1.2.zip
+archive.bioconductor.org/packages/2.14/data/experiment/bin/windows/contrib/3.1/curatedCRCData_1.0.0.zip
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/BSgenome.Mdomestica.UCSC.monDom5_1.4.2.tar.gz

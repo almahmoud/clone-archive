@@ -1,0 +1,17 @@
+archive.bioconductor.org/packages/2.14/data/annotation/bin/windows/contrib/3.1/humanomni258v1p1bCrlmm_1.0.0.zip
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/FlowSorted.Blood.450k_1.3.1.zip
+archive.bioconductor.org/packages/2.14/data/experiment/bin/windows/contrib/3.1/FlowSorted.Blood.450k_1.2.0.zip
+archive.bioconductor.org/packages/3.7/data/annotation/src/contrib/MeSH.Mmu.eg.db_1.10.0.tar.gz
+archive.bioconductor.org/packages/3.1/data/annotation/src/contrib/reactome.db_1.52.1.tar.gz
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/reactome.db_1.68.0.tar.gz
+archive.bioconductor.org/packages/3.3/data/annotation/src/contrib/MeSH.Hsa.eg.db_1.6.0.tar.gz
+archive.bioconductor.org/packages/3.9/data/experiment/src/contrib/msdata_0.24.1.tar.gz
+archive.bioconductor.org/packages/3.11/data/experiment/src/contrib/msdata_0.28.0.tar.gz
+archive.bioconductor.org/packages/3.10/data/experiment/src/contrib/msdata_0.26.0.tar.gz
+archive.bioconductor.org/packages/3.12/data/experiment/src/contrib/msdata_0.30.0.tar.gz
+archive.bioconductor.org/packages/3.13/data/experiment/src/contrib/msdata_0.32.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/MeSH.Mmu.eg.db_1.11.0.tar.gz
+archive.bioconductor.org/packages/3.6/data/experiment/src/contrib/geuvStore2_1.8.0.tar.gz
+archive.bioconductor.org/packages/3.12/data/experiment/src/contrib/geuvStore2_1.19.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/experiment/src/contrib/geuvStore2_1.12.0.tar.gz
+archive.bioconductor.org/packages/3.7/data/experiment/src/contrib/geuvStore2_1.10.0.tar.gz

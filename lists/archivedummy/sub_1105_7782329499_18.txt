@@ -1,0 +1,7 @@
+archive.bioconductor.org/packages/2.13/data/experiment/bin/macosx/contrib/3.0/synapterdata_1.0.1.tgz
+archive.bioconductor.org/packages/2.14/data/experiment/bin/macosx/contrib/3.1/synapterdata_1.2.0.tgz
+archive.bioconductor.org/packages/2.12/data/experiment/bin/macosx/contrib/3.0/synapterdata_1.0.0.tgz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/MafDb.gnomADex.r2.1.GRCh38_3.10.0.tar.gz
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/TargetScoreData_1.1.1.zip
+archive.bioconductor.org/packages/2.14/data/experiment/bin/windows/contrib/3.1/TargetScoreData_1.0.0.zip
+archive.bioconductor.org/packages/2.10/data/annotation/src/contrib/BSgenome.Drerio.UCSC.danRer7_1.3.17.tar.gz

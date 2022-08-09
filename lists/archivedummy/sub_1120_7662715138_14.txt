@@ -1,0 +1,11 @@
+archive.bioconductor.org/packages/2.4/data/annotation/bin/macosx/universal/contrib/2.9/pd.genomewidesnp.6_0.4.2.tgz
+archive.bioconductor.org/packages/2.2/data/annotation/bin/macosx/universal/contrib/2.7/pd.genomewidesnp.6_0.4.2.tgz
+archive.bioconductor.org/packages/2.3/data/annotation/bin/macosx/leopard/contrib/2.8/pd.genomewidesnp.6_0.4.2.tgz
+archive.bioconductor.org/packages/2.3/data/annotation/bin/macosx/universal/contrib/2.8/pd.genomewidesnp.6_0.4.2.tgz
+archive.bioconductor.org/packages/2.5/data/annotation/bin/macosx/universal/contrib/2.10/pd.genomewidesnp.6_0.4.2.tgz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/MeSH.Hsa.eg.db_1.13.0.tar.gz
+archive.bioconductor.org/packages/3.5/data/experiment/src/contrib/HD2013SGI_1.16.0.tar.gz
+archive.bioconductor.org/packages/2.13/data/experiment/bin/windows/contrib/3.0/HD2013SGI_1.2.1.zip
+archive.bioconductor.org/packages/2.12/data/experiment/bin/windows/contrib/2.16/HD2013SGI_1.00.1.zip
+archive.bioconductor.org/packages/2.12/data/experiment/src/contrib/HD2013SGI_1.00.1.tar.gz
+archive.bioconductor.org/packages/2.13/data/experiment/src/contrib/HD2013SGI_1.2.1.tar.gz

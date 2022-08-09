@@ -1,0 +1,7 @@
+archive.bioconductor.org/packages/2.14/data/annotation/src/contrib/BSgenome.Btaurus.UCSC.bosTau6_1.3.1000.tar.gz
+archive.bioconductor.org/packages/2.14/data/annotation/src/contrib/BSgenome.Btaurus.UCSC.bosTau3_1.3.1000.tar.gz
+archive.bioconductor.org/packages/2.2/data/annotation/src/contrib/BSgenome.Btaurus.UCSC.bosTau3_1.3.4.tar.gz
+archive.bioconductor.org/packages/2.2/data/annotation/bin/macosx/universal/contrib/2.7/BSgenome.Btaurus.UCSC.bosTau3_1.3.4.tgz
+archive.bioconductor.org/packages/2.2/data/annotation/bin/windows/contrib/2.7/BSgenome.Btaurus.UCSC.bosTau3_1.3.4.zip
+archive.bioconductor.org/packages/2.3/data/annotation/bin/macosx/universal/contrib/2.8/BSgenome.Btaurus.UCSC.bosTau3_1.3.11.tgz
+archive.bioconductor.org/packages/2.10/data/annotation/src/contrib/BSgenome.Mmulatta.UCSC.rheMac2_1.3.17.tar.gz

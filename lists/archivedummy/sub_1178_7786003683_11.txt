@@ -1,0 +1,5 @@
+archive.bioconductor.org/packages/2.14/data/experiment/bin/windows/contrib/3.1/RNAseqData.HNRNPC.bam.chr14_0.2.0.zip
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/RNAseqData.HNRNPC.bam.chr14_0.3.2.zip
+archive.bioconductor.org/packages/3.4/data/annotation/src/contrib/MafDb.1Kgenomes.phase1.hs37d5_3.4.0.tar.gz
+archive.bioconductor.org/packages/3.11/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg19_1.4.3.tar.gz
+archive.bioconductor.org/packages/3.1/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38_1.4.1.tar.gz

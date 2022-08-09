@@ -1,0 +1,5 @@
+archive.bioconductor.org/packages/2.8/data/annotation/bin/macosx/leopard/contrib/2.13/pd.genomewidesnp.6_1.2.2.tgz
+archive.bioconductor.org/packages/2.8/data/annotation/src/contrib/pd.genomewidesnp.6_1.2.2.tar.gz
+archive.bioconductor.org/packages/2.12/data/annotation/bin/macosx/contrib/3.0/pd.genomewidesnp.6_1.10.0.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/windows/contrib/2.15/pd.genomewidesnp.6_1.8.0.zip
+archive.bioconductor.org/packages/2.12/data/annotation/src/contrib/pd.genomewidesnp.6_1.10.0.tar.gz

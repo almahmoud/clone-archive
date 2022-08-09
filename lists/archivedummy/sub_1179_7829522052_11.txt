@@ -1,0 +1,5 @@
+archive.bioconductor.org/packages/3.11/data/experiment/src/contrib/ChAMPdata_2.20.0.tar.gz
+archive.bioconductor.org/packages/3.9/data/experiment/src/contrib/ChAMPdata_2.16.0.tar.gz
+archive.bioconductor.org/packages/3.10/data/experiment/src/contrib/ChAMPdata_2.18.0.tar.gz
+archive.bioconductor.org/packages/3.14/data/experiment/src/contrib/ChAMPdata_2.26.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/experiment/src/contrib/ChAMPdata_2.14.1.tar.gz

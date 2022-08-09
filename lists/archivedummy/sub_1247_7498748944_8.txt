@@ -1,0 +1,8 @@
+archive.bioconductor.org/packages/3.12/data/experiment/src/contrib/ccdata_1.16.0.tar.gz
+archive.bioconductor.org/packages/3.11/data/experiment/src/contrib/ccdata_1.14.0.tar.gz
+archive.bioconductor.org/packages/3.9/data/experiment/src/contrib/ccdata_1.10.0.tar.gz
+archive.bioconductor.org/packages/3.7/data/experiment/src/contrib/ccdata_1.6.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/experiment/src/contrib/ccdata_1.8.0.tar.gz
+archive.bioconductor.org/packages/3.14/data/experiment/src/contrib/ccdata_1.20.0.tar.gz
+archive.bioconductor.org/packages/3.10/data/experiment/src/contrib/ccdata_1.12.0.tar.gz
+archive.bioconductor.org/packages/3.13/data/experiment/src/contrib/ccdata_1.18.0.tar.gz

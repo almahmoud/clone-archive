@@ -1,0 +1,2 @@
+archive.bioconductor.org/packages/3.7/data/annotation/src/contrib/MafDb.TOPMed.freeze5.hg19_3.7.1.tar.gz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/phastCons100way.UCSC.hg38_3.7.1.tar.gz

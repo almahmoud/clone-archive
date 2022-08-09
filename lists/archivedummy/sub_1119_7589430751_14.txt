@@ -1,0 +1,2 @@
+archive.bioconductor.org/packages/2.13/data/annotation/bin/macosx/contrib/3.0/humanomni25quadv1bCrlmm_1.0.2.tgz
+archive.bioconductor.org/packages/2.13/data/annotation/bin/windows/contrib/3.0/humanomni25quadv1bCrlmm_1.0.2.zip

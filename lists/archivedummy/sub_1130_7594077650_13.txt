@@ -1,0 +1,11 @@
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/ceu1kgv_0.7.1.zip
+archive.bioconductor.org/packages/3.13/data/annotation/src/contrib/MeSH.Hsa.eg.db_1.15.1.tar.gz
+archive.bioconductor.org/packages/3.12/data/annotation/src/contrib/MeSH.Hsa.eg.db_1.15.0.tar.gz
+archive.bioconductor.org/packages/2.6/data/annotation/bin/macosx/leopard/contrib/2.11/pd.genomewidesnp.6_1.0.0.tgz
+archive.bioconductor.org/packages/2.9/data/annotation/bin/windows/contrib/2.14/pd.genomewidesnp.6_1.4.0.zip
+archive.bioconductor.org/packages/2.10/data/annotation/bin/windows/contrib/2.15/pd.genomewidesnp.6_1.6.0.zip
+archive.bioconductor.org/packages/2.8/data/annotation/bin/windows/contrib/2.13/pd.genomewidesnp.6_1.2.2.zip
+archive.bioconductor.org/packages/2.13/data/experiment/bin/windows/contrib/3.0/ceu1kgv_0.5.3.zip
+archive.bioconductor.org/packages/3.5/data/annotation/src/contrib/MafDb.1Kgenomes.phase1.hs37d5_3.5.0.tar.gz
+archive.bioconductor.org/packages/3.7/data/annotation/src/contrib/MafDb.1Kgenomes.phase1.hs37d5_3.7.1.tar.gz
+archive.bioconductor.org/packages/3.6/data/annotation/src/contrib/MafDb.1Kgenomes.phase1.hs37d5_3.6.0.tar.gz

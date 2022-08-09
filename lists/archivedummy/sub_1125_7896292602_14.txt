@@ -1,0 +1,14 @@
+archive.bioconductor.org/packages/2.11/data/experiment/bin/macosx/leopard/contrib/2.15/davidTiling_1.2.16.tgz
+archive.bioconductor.org/packages/2.13/data/experiment/bin/windows/contrib/3.0/davidTiling_1.2.19.zip
+archive.bioconductor.org/packages/2.9/data/experiment/bin/windows/contrib/2.14/davidTiling_1.2.14.zip
+archive.bioconductor.org/packages/2.10/data/experiment/bin/windows/contrib/2.15/davidTiling_1.2.15.zip
+archive.bioconductor.org/packages/2.11/data/experiment/bin/windows/contrib/2.15/davidTiling_1.2.16.zip
+archive.bioconductor.org/packages/2.12/data/experiment/bin/windows/contrib/2.16/davidTiling_1.2.17.zip
+archive.bioconductor.org/packages/2.5/data/experiment/bin/windows/contrib/2.10/davidTiling_1.2.12.zip
+archive.bioconductor.org/packages/2.8/data/experiment/bin/windows/contrib/2.13/davidTiling_1.2.12.zip
+archive.bioconductor.org/packages/2.6/data/experiment/bin/windows/contrib/2.11/davidTiling_1.2.12.zip
+archive.bioconductor.org/packages/2.7/data/experiment/bin/windows/contrib/2.12/davidTiling_1.2.12.zip
+archive.bioconductor.org/packages/2.13/data/experiment/bin/macosx/contrib/3.0/davidTiling_1.2.19.tgz
+archive.bioconductor.org/packages/2.14/data/experiment/bin/macosx/contrib/3.1/davidTiling_1.4.0.tgz
+archive.bioconductor.org/packages/3.0/data/experiment/bin/macosx/contrib/3.1/davidTiling_1.5.1.tgz
+archive.bioconductor.org/packages/3.0/data/annotation/bin/windows/contrib/3.1/BSgenome.Cfamiliaris.UCSC.canFam2_1.4.0.zip

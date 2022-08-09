@@ -1,0 +1,6 @@
+archive.bioconductor.org/packages/3.0/data/annotation/bin/macosx/contrib/3.1/BSgenome.Hsapiens.UCSC.hg19_1.4.0.tgz
+archive.bioconductor.org/packages/2.2/data/annotation/src/contrib/BSgenome.Cfamiliaris.UCSC.canFam2_1.3.7.tar.gz
+archive.bioconductor.org/packages/2.2/data/annotation/bin/macosx/universal/contrib/2.7/BSgenome.Cfamiliaris.UCSC.canFam2_1.3.7.tgz
+archive.bioconductor.org/packages/2.2/data/annotation/bin/windows/contrib/2.7/BSgenome.Cfamiliaris.UCSC.canFam2_1.3.7.zip
+archive.bioconductor.org/packages/2.4/data/annotation/src/contrib/BSgenome.Cfamiliaris.UCSC.canFam2_1.3.13.tar.gz
+archive.bioconductor.org/packages/2.10/data/annotation/src/contrib/BSgenome.Cfamiliaris.UCSC.canFam2_1.3.17.tar.gz

@@ -1,0 +1,11 @@
+archive.bioconductor.org/packages/2.7/data/annotation/bin/macosx/leopard/contrib/2.12/pd.raex.1.0.st.v1_3.0.2.tgz
+archive.bioconductor.org/packages/3.0/data/annotation/src/contrib/pd.moex.1.0.st.v1_3.10.0.tar.gz
+archive.bioconductor.org/packages/3.0/data/annotation/bin/macosx/contrib/3.1/pd.moex.1.0.st.v1_3.10.0.tgz
+archive.bioconductor.org/packages/3.0/data/annotation/bin/windows/contrib/3.1/pd.moex.1.0.st.v1_3.10.0.zip
+archive.bioconductor.org/packages/3.2/data/annotation/src/contrib/phastCons100way.UCSC.hg38_3.2.0.tar.gz
+archive.bioconductor.org/packages/3.3/data/annotation/src/contrib/phastCons100way.UCSC.hg38_3.3.0.tar.gz
+archive.bioconductor.org/packages/3.4/data/annotation/src/contrib/phastCons100way.UCSC.hg38_3.4.0.tar.gz
+archive.bioconductor.org/packages/2.11/data/annotation/src/contrib/human1mv1cCrlmm_1.0.3.tar.gz
+archive.bioconductor.org/packages/2.12/data/annotation/bin/macosx/contrib/3.0/human1mv1cCrlmm_1.0.3.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/macosx/leopard/contrib/2.15/human1mv1cCrlmm_1.0.3.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/windows/contrib/2.15/human1mv1cCrlmm_1.0.3.zip

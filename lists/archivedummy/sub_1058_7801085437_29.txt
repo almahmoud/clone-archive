@@ -1,0 +1,12 @@
+archive.bioconductor.org/packages/2.11/data/annotation/bin/macosx/leopard/contrib/2.15/reactome.db_1.42.0.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/windows/contrib/2.15/pd.huex.1.0.st.v2_3.8.0.zip
+archive.bioconductor.org/packages/2.12/data/annotation/bin/macosx/contrib/3.0/pd.huex.1.0.st.v2_3.8.0.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/src/contrib/pd.huex.1.0.st.v2_3.8.0.tar.gz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/macosx/leopard/contrib/2.15/pd.huex.1.0.st.v2_3.8.0.tgz
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/pd.huex.1.0.st.v2_3.8.0.zip
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/pd.rta.1.0_3.12.2.tar.gz
+archive.bioconductor.org/packages/3.7/data/experiment/src/contrib/FlowSorted.CordBlood.450k_1.8.0.tar.gz
+archive.bioconductor.org/packages/3.6/data/experiment/src/contrib/FlowSorted.CordBlood.450k_1.6.0.tar.gz
+archive.bioconductor.org/packages/3.13/data/experiment/src/contrib/FlowSorted.CordBlood.450k_1.20.0.tar.gz
+archive.bioconductor.org/packages/3.5/data/experiment/src/contrib/FlowSorted.CordBlood.450k_1.4.0.tar.gz
+archive.bioconductor.org/packages/3.12/data/experiment/src/contrib/FlowSorted.CordBlood.450k_1.18.0.tar.gz

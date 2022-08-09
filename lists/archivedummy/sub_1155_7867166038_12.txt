@@ -1,0 +1,9 @@
+archive.bioconductor.org/packages/3.12/data/experiment/src/contrib/RTCGA.methylation_1.18.0.tar.gz
+archive.bioconductor.org/packages/3.1/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP144.GRCh38_0.99.11.tar.gz
+archive.bioconductor.org/packages/3.4/data/experiment/src/contrib/ChAMPdata_2.6.0.tar.gz
+archive.bioconductor.org/packages/1.9/data/experiment/src/contrib/davidTiling_1.2.1.tar.gz
+archive.bioconductor.org/packages/2.0/data/experiment/src/contrib/davidTiling_1.2.4.tar.gz
+archive.bioconductor.org/packages/2.2/data/experiment/src/contrib/davidTiling_1.2.8.tar.gz
+archive.bioconductor.org/packages/2.1/data/experiment/src/contrib/davidTiling_1.2.5.tar.gz
+archive.bioconductor.org/packages/2.4/data/experiment/src/contrib/davidTiling_1.2.9.tar.gz
+archive.bioconductor.org/packages/2.3/data/experiment/src/contrib/davidTiling_1.2.8.tar.gz

@@ -1,0 +1,1 @@
+archive.bioconductor.org/packages/2.14/data/annotation/src/contrib/BSgenome.Rnorvegicus.UCSC.rn4_1.3.1000.tar.gz

@@ -1,0 +1,11 @@
+archive.bioconductor.org/packages/3.0/data/annotation/src/contrib/org.MeSH.Mmu.db_1.2.0.tar.gz
+archive.bioconductor.org/packages/3.6/data/experiment/src/contrib/msdata_0.18.0.tar.gz
+archive.bioconductor.org/packages/2.6/data/annotation/src/contrib/pd.mapping250k.nsp_1.0.0.tar.gz
+archive.bioconductor.org/packages/2.6/data/annotation/bin/windows/contrib/2.11/pd.mapping250k.nsp_1.0.0.zip
+archive.bioconductor.org/packages/2.14/data/experiment/bin/windows/contrib/3.1/ind1KG_0.2.0.zip
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/ind1KG_0.3.1.zip
+archive.bioconductor.org/packages/2.7/data/annotation/src/contrib/pd.mapping250k.nsp_1.1.0.tar.gz
+archive.bioconductor.org/packages/2.8/data/annotation/bin/windows/contrib/2.13/pd.mapping250k.nsp_1.2.0.zip
+archive.bioconductor.org/packages/2.7/data/annotation/bin/windows/contrib/2.12/pd.mapping250k.nsp_1.1.0.zip
+archive.bioconductor.org/packages/2.6/data/annotation/bin/macosx/leopard/contrib/2.11/pd.mapping250k.nsp_1.0.0.tgz
+archive.bioconductor.org/packages/2.8/data/annotation/bin/macosx/leopard/contrib/2.13/pd.mapping250k.nsp_1.2.0.tgz

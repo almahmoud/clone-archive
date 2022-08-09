@@ -1,0 +1,5 @@
+archive.bioconductor.org/packages/3.0/data/annotation/bin/macosx/contrib/3.1/BSgenome.Ptroglodytes.UCSC.panTro3_1.4.0.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/src/contrib/BSgenome.Cfamiliaris.UCSC.canFam3_1.3.19.tar.gz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/macosx/leopard/contrib/2.15/BSgenome.Cfamiliaris.UCSC.canFam3_1.3.19.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/windows/contrib/2.15/BSgenome.Cfamiliaris.UCSC.canFam3_1.3.19.zip
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/BSgenome.Cfamiliaris.UCSC.canFam3_1.3.19.zip

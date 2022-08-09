@@ -1,0 +1,17 @@
+archive.bioconductor.org/packages/3.0/data/annotation/bin/macosx/contrib/3.1/org.MeSH.Hsa.db_1.2.0.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/windows/contrib/2.15/pd.genomewidesnp.5_1.8.0.zip
+archive.bioconductor.org/packages/2.10/data/annotation/src/contrib/pd.genomewidesnp.5_1.6.0.tar.gz
+archive.bioconductor.org/packages/2.9/data/annotation/src/contrib/pd.genomewidesnp.5_1.4.0.tar.gz
+archive.bioconductor.org/packages/2.10/data/annotation/bin/macosx/leopard/contrib/2.15/pd.genomewidesnp.5_1.6.0.tgz
+archive.bioconductor.org/packages/2.9/data/annotation/bin/macosx/leopard/contrib/2.14/pd.genomewidesnp.5_1.4.0.tgz
+archive.bioconductor.org/packages/3.7/data/experiment/src/contrib/msdata_0.20.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/experiment/src/contrib/msdata_0.22.0.tar.gz
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/pd.genomewidesnp.5_1.10.0.zip
+archive.bioconductor.org/packages/2.11/data/annotation/src/contrib/pd.genomewidesnp.5_1.8.0.tar.gz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/macosx/leopard/contrib/2.15/pd.genomewidesnp.5_1.8.0.tgz
+archive.bioconductor.org/packages/3.3/data/annotation/src/contrib/MeSH.Mmu.eg.db_1.6.0.tar.gz
+archive.bioconductor.org/packages/2.0/data/annotation/src/contrib/pd.mapping250k.sty_0.2.9.tar.gz
+archive.bioconductor.org/packages/2.0/data/annotation/bin/windows/contrib/2.5/pd.mapping250k.sty_0.2.9.zip
+archive.bioconductor.org/packages/2.14/data/experiment/bin/macosx/contrib/3.1/curatedCRCData_1.0.0.tgz
+archive.bioconductor.org/packages/3.0/data/experiment/bin/macosx/contrib/3.1/curatedCRCData_1.1.2.tgz
+archive.bioconductor.org/packages/3.0/data/experiment/src/contrib/curatedCRCData_1.1.2.tar.gz

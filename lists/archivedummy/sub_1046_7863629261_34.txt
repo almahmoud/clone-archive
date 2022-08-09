@@ -1,0 +1,16 @@
+archive.bioconductor.org/packages/2.13/data/annotation/bin/macosx/contrib/3.0/humanomni1quadv1bCrlmm_1.0.3.tgz
+archive.bioconductor.org/packages/2.13/data/annotation/bin/windows/contrib/3.0/humanomni1quadv1bCrlmm_1.0.3.zip
+archive.bioconductor.org/packages/2.10/data/annotation/src/contrib/human650v3aCrlmm_1.0.2.tar.gz
+archive.bioconductor.org/packages/2.6/data/annotation/src/contrib/human650v3aCrlmm_1.0.1.tar.gz
+archive.bioconductor.org/packages/2.7/data/annotation/bin/macosx/leopard/contrib/2.12/human650v3aCrlmm_1.0.2.tgz
+archive.bioconductor.org/packages/2.6/data/annotation/bin/macosx/leopard/contrib/2.11/human650v3aCrlmm_1.0.1.tgz
+archive.bioconductor.org/packages/2.9/data/annotation/bin/macosx/leopard/contrib/2.14/human650v3aCrlmm_1.0.2.tgz
+archive.bioconductor.org/packages/2.10/data/annotation/bin/macosx/leopard/contrib/2.15/human650v3aCrlmm_1.0.2.tgz
+archive.bioconductor.org/packages/2.7/data/annotation/bin/windows/contrib/2.12/human650v3aCrlmm_1.0.2.zip
+archive.bioconductor.org/packages/2.6/data/annotation/bin/windows/contrib/2.11/human650v3aCrlmm_1.0.1.zip
+archive.bioconductor.org/packages/2.8/data/annotation/bin/windows/contrib/2.13/human650v3aCrlmm_1.0.2.zip
+archive.bioconductor.org/packages/2.9/data/annotation/bin/windows/contrib/2.14/human650v3aCrlmm_1.0.2.zip
+archive.bioconductor.org/packages/2.10/data/annotation/bin/windows/contrib/2.15/human650v3aCrlmm_1.0.2.zip
+archive.bioconductor.org/packages/3.8/data/experiment/src/contrib/tximportData_1.10.0.tar.gz
+archive.bioconductor.org/packages/2.8/data/annotation/bin/macosx/leopard/contrib/2.13/human650v3aCrlmm_1.0.2.tgz
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/CCl4_1.3.1.zip

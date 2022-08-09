@@ -1,0 +1,13 @@
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/human.db0_3.7.1.tar.gz
+archive.bioconductor.org/packages/3.7/data/annotation/src/contrib/human.db0_3.6.0.tar.gz
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/MeSH.Ame.eg.db_1.12.0.tar.gz
+archive.bioconductor.org/packages/3.9/data/annotation/src/contrib/MeSH.Xtr.eg.db_1.12.0.tar.gz
+archive.bioconductor.org/packages/3.8/data/annotation/src/contrib/MeSH.Laf.eg.db_1.11.0.tar.gz
+archive.bioconductor.org/packages/3.5/data/experiment/src/contrib/aracne.networks_1.2.0.tar.gz
+archive.bioconductor.org/packages/3.4/data/experiment/src/contrib/aracne.networks_1.0.0.tar.gz
+archive.bioconductor.org/packages/2.12/data/annotation/bin/macosx/contrib/3.0/FDb.UCSC.snp135common.hg19_1.0.0.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/windows/contrib/2.15/FDb.UCSC.snp135common.hg19_1.0.0.zip
+archive.bioconductor.org/packages/2.11/data/annotation/src/contrib/FDb.UCSC.snp135common.hg19_1.0.0.tar.gz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/macosx/leopard/contrib/2.15/FDb.UCSC.snp135common.hg19_1.0.0.tgz
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/FDb.UCSC.snp135common.hg19_1.0.0.zip
+archive.bioconductor.org/packages/2.13/data/annotation/src/contrib/huex.1.0.st.v2frmavecs_1.0.0.tar.gz

@@ -1,0 +1,17 @@
+archive.bioconductor.org/packages/2.12/data/annotation/bin/macosx/contrib/3.0/human1mduov3bCrlmm_1.0.4.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/macosx/leopard/contrib/2.15/human1mduov3bCrlmm_1.0.4.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/windows/contrib/2.15/human1mduov3bCrlmm_1.0.4.zip
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/human1mduov3bCrlmm_1.0.4.zip
+archive.bioconductor.org/packages/2.9/data/annotation/bin/windows/contrib/2.14/pd.moex.1.0.st.v1_3.2.0.zip
+archive.bioconductor.org/packages/2.9/data/annotation/src/contrib/pd.moex.1.0.st.v1_3.2.0.tar.gz
+archive.bioconductor.org/packages/2.9/data/annotation/bin/macosx/leopard/contrib/2.14/pd.moex.1.0.st.v1_3.2.0.tgz
+archive.bioconductor.org/packages/3.0/data/annotation/bin/windows/contrib/3.1/mouse.db0_3.0.0.zip
+archive.bioconductor.org/packages/3.12/data/experiment/src/contrib/pRolocdata_1.28.0.tar.gz
+archive.bioconductor.org/packages/3.14/data/experiment/src/contrib/pRolocdata_1.32.0.tar.gz
+archive.bioconductor.org/packages/3.13/data/experiment/src/contrib/pRolocdata_1.30.0.tar.gz
+archive.bioconductor.org/packages/3.1/data/annotation/src/contrib/pd.rta.1.0_3.12.0.tar.gz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/BSgenome.Aofficinalis.NCBI.V1_1.0.0.tar.gz
+archive.bioconductor.org/packages/2.13/data/annotation/bin/macosx/contrib/3.0/reactome.db_1.46.1.tgz
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/metaMSdata_1.1.1.zip
+archive.bioconductor.org/packages/2.14/data/experiment/bin/windows/contrib/3.1/metaMSdata_1.0.0.zip
+archive.bioconductor.org/packages/2.14/data/annotation/src/contrib/reactome.db_1.48.0.tar.gz

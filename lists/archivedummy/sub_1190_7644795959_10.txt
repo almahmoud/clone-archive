@@ -1,0 +1,10 @@
+archive.bioconductor.org/packages/2.3/data/annotation/bin/macosx/leopard/contrib/2.8/BSgenome.Rnorvegicus.UCSC.rn4_1.3.11.tgz
+archive.bioconductor.org/packages/2.3/data/annotation/bin/macosx/universal/contrib/2.8/BSgenome.Rnorvegicus.UCSC.rn4_1.3.11.tgz
+archive.bioconductor.org/packages/2.4/data/annotation/bin/macosx/universal/contrib/2.9/BSgenome.Rnorvegicus.UCSC.rn4_1.3.11.tgz
+archive.bioconductor.org/packages/2.8/data/annotation/bin/windows/contrib/2.13/BSgenome.Rnorvegicus.UCSC.rn4_1.3.17.zip
+archive.bioconductor.org/packages/2.9/data/annotation/bin/windows/contrib/2.14/BSgenome.Rnorvegicus.UCSC.rn4_1.3.17.zip
+archive.bioconductor.org/packages/2.10/data/annotation/bin/windows/contrib/2.15/BSgenome.Rnorvegicus.UCSC.rn4_1.3.17.zip
+archive.bioconductor.org/packages/2.5/data/annotation/bin/windows/contrib/2.10/BSgenome.Rnorvegicus.UCSC.rn4_1.3.16.zip
+archive.bioconductor.org/packages/2.11/data/annotation/bin/windows/contrib/2.15/BSgenome.Rnorvegicus.UCSC.rn4_1.3.17.zip
+archive.bioconductor.org/packages/2.7/data/annotation/bin/windows/contrib/2.12/BSgenome.Rnorvegicus.UCSC.rn4_1.3.16.zip
+archive.bioconductor.org/packages/2.6/data/annotation/bin/windows/contrib/2.11/BSgenome.Rnorvegicus.UCSC.rn4_1.3.16.zip

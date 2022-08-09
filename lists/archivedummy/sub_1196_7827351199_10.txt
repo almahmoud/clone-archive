@@ -1,0 +1,3 @@
+archive.bioconductor.org/packages/2.10/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm8_1.3.17.tar.gz
+archive.bioconductor.org/packages/2.4/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm8_1.3.13.tar.gz
+archive.bioconductor.org/packages/2.5/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm8_1.3.16.tar.gz

@@ -1,0 +1,4 @@
+archive.bioconductor.org/packages/3.1/data/experiment/src/contrib/dsQTL_0.6.0.tar.gz
+archive.bioconductor.org/packages/2.14/data/experiment/bin/macosx/contrib/3.1/dsQTL_0.2.0.tgz
+archive.bioconductor.org/packages/3.0/data/experiment/bin/macosx/contrib/3.1/dsQTL_0.3.1.tgz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/phastCons100way.UCSC.hg19_3.7.2.tar.gz

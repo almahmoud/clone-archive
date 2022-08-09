@@ -1,0 +1,9 @@
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/BSgenome.Rnorvegicus.UCSC.rn4_1.3.17.zip
+archive.bioconductor.org/packages/2.3/data/annotation/bin/windows/contrib/2.8/BSgenome.Rnorvegicus.UCSC.rn4_1.3.11.zip
+archive.bioconductor.org/packages/2.4/data/annotation/bin/windows/contrib/2.9/BSgenome.Rnorvegicus.UCSC.rn4_1.3.11.zip
+archive.bioconductor.org/packages/2.8/data/annotation/bin/macosx/leopard/contrib/2.13/BSgenome.Rnorvegicus.UCSC.rn4_1.3.17.tgz
+archive.bioconductor.org/packages/1.9/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm7_1.0.0.tar.gz
+archive.bioconductor.org/packages/1.8/data/annotation/src/contrib/MmusculusGenome.mm7_0.99.1.tar.gz
+archive.bioconductor.org/packages/2.0/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm7_1.2.0.tar.gz
+archive.bioconductor.org/packages/2.1/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm7_1.3.1.tar.gz
+archive.bioconductor.org/packages/1.8/data/annotation/bin/macosx/universal/contrib/2.3/MmusculusGenome.mm7_0.99.1.tgz

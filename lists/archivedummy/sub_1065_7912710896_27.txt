@@ -1,0 +1,11 @@
+archive.bioconductor.org/packages/3.0/data/annotation/bin/windows/contrib/3.1/BSgenome.Tguttata.UCSC.taeGut1_1.4.0.zip
+archive.bioconductor.org/packages/3.0/data/annotation/bin/macosx/contrib/3.1/BSgenome.Tguttata.UCSC.taeGut1_1.4.0.tgz
+archive.bioconductor.org/packages/3.10/data/annotation/src/contrib/BSgenome.Tguttata.UCSC.taeGut2_1.4.2.tar.gz
+archive.bioconductor.org/packages/2.13/data/experiment/src/contrib/ceu1kgv_0.5.3.tar.gz
+archive.bioconductor.org/packages/2.13/data/experiment/bin/macosx/contrib/3.0/ceu1kgv_0.5.3.tgz
+archive.bioconductor.org/packages/2.4/data/annotation/src/contrib/BSgenome.Ggallus.UCSC.galGal3_1.3.13.tar.gz
+archive.bioconductor.org/packages/2.10/data/annotation/src/contrib/BSgenome.Ggallus.UCSC.galGal3_1.3.17.tar.gz
+archive.bioconductor.org/packages/2.6/data/annotation/src/contrib/BSgenome.Ggallus.UCSC.galGal3_1.3.16.tar.gz
+archive.bioconductor.org/packages/2.3/data/annotation/src/contrib/BSgenome.Ggallus.UCSC.galGal3_1.3.11.tar.gz
+archive.bioconductor.org/packages/2.7/data/annotation/src/contrib/BSgenome.Ggallus.UCSC.galGal3_1.3.16.tar.gz
+archive.bioconductor.org/packages/2.9/data/annotation/bin/macosx/leopard/contrib/2.14/BSgenome.Ggallus.UCSC.galGal3_1.3.17.tgz

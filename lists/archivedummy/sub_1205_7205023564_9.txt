@@ -1,0 +1,5 @@
+archive.bioconductor.org/packages/2.11/data/annotation/bin/macosx/leopard/contrib/2.15/BSgenome.Mmusculus.UCSC.mm9_1.3.19.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/windows/contrib/2.15/BSgenome.Mmusculus.UCSC.mm9_1.3.19.zip
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/BSgenome.Mmusculus.UCSC.mm9_1.3.19.zip
+archive.bioconductor.org/packages/2.4/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm9_1.3.13.tar.gz
+archive.bioconductor.org/packages/2.5/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm9_1.3.16.tar.gz

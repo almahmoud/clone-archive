@@ -1,0 +1,12 @@
+archive.bioconductor.org/packages/3.0/data/annotation/bin/windows/contrib/3.1/BSgenome.Btaurus.UCSC.bosTau4_1.4.0.zip
+archive.bioconductor.org/packages/2.14/data/annotation/bin/windows/contrib/3.1/MafDb.ALL.wgs.phase1.release.v3.20101123_0.99.1.zip
+archive.bioconductor.org/packages/3.0/data/annotation/bin/windows/contrib/3.1/MafDb.ALL.wgs.phase1.release.v3.20101123_3.0.0.zip
+archive.bioconductor.org/packages/2.14/data/annotation/src/contrib/MafDb.ALL.wgs.phase1.release.v3.20101123_0.99.1.tar.gz
+archive.bioconductor.org/packages/3.0/data/annotation/src/contrib/MafDb.ALL.wgs.phase1.release.v3.20101123_3.0.0.tar.gz
+archive.bioconductor.org/packages/3.0/data/experiment/src/contrib/MafDb.ALL.wgs.phase1.release.v3.20101123_1.1.0.tar.gz
+archive.bioconductor.org/packages/2.14/data/experiment/src/contrib/MafDb.ALL.wgs.phase1.release.v3.20101123_1.0.0.tar.gz
+archive.bioconductor.org/packages/2.14/data/annotation/bin/macosx/contrib/3.1/MafDb.ALL.wgs.phase1.release.v3.20101123_0.99.1.tgz
+archive.bioconductor.org/packages/3.0/data/annotation/bin/macosx/contrib/3.1/MafDb.ALL.wgs.phase1.release.v3.20101123_3.0.0.tgz
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/Affyhgu133aExpr_1.3.1.zip
+archive.bioconductor.org/packages/3.2/data/experiment/src/contrib/MMDiffBamSubset_1.6.0.tar.gz
+archive.bioconductor.org/packages/3.4/data/experiment/src/contrib/MMDiffBamSubset_1.10.0.tar.gz

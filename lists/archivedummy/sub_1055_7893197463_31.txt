@@ -1,0 +1,8 @@
+archive.bioconductor.org/packages/2.12/data/annotation/bin/macosx/contrib/3.0/pd.moex.1.0.st.v1_3.8.0.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/src/contrib/pd.moex.1.0.st.v1_3.8.0.tar.gz
+archive.bioconductor.org/packages/2.11/data/annotation/bin/macosx/leopard/contrib/2.15/pd.moex.1.0.st.v1_3.8.0.tgz
+archive.bioconductor.org/packages/2.12/data/annotation/bin/windows/contrib/2.16/pd.moex.1.0.st.v1_3.8.0.zip
+archive.bioconductor.org/packages/2.14/data/annotation/src/contrib/human1mduov3bCrlmm_1.0.5.tar.gz
+archive.bioconductor.org/packages/2.14/data/annotation/bin/windows/contrib/3.1/human1mduov3bCrlmm_1.0.5.zip
+archive.bioconductor.org/packages/2.14/data/annotation/bin/macosx/contrib/3.1/human1mduov3bCrlmm_1.0.5.tgz
+archive.bioconductor.org/packages/2.11/data/annotation/src/contrib/human1mduov3bCrlmm_1.0.4.tar.gz

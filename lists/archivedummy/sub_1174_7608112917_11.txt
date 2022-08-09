@@ -1,0 +1,2 @@
+archive.bioconductor.org/packages/3.0/data/annotation/bin/macosx/contrib/3.1/BSgenome.Ptroglodytes.UCSC.panTro2_1.4.0.tgz
+archive.bioconductor.org/packages/3.0/data/annotation/bin/windows/contrib/3.1/BSgenome.Ptroglodytes.UCSC.panTro3_1.4.0.zip

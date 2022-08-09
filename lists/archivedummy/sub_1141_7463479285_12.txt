@@ -1,0 +1,2 @@
+archive.bioconductor.org/packages/3.0/data/annotation/bin/windows/contrib/3.1/BSgenome.Mmusculus.UCSC.mm9_1.4.0.zip
+archive.bioconductor.org/packages/3.0/data/annotation/bin/macosx/contrib/3.1/BSgenome.Mmusculus.UCSC.mm9_1.4.0.tgz

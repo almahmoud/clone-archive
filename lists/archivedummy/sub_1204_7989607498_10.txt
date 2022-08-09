@@ -1,0 +1,8 @@
+archive.bioconductor.org/packages/2.14/data/annotation/bin/macosx/contrib/3.1/BSgenome.Sscrofa.UCSC.susScr3_1.3.99.tgz
+archive.bioconductor.org/packages/2.14/data/annotation/bin/windows/contrib/3.1/BSgenome.Sscrofa.UCSC.susScr3_1.3.99.zip
+archive.bioconductor.org/packages/3.0/data/experiment/bin/windows/contrib/3.1/curatedOvarianData_1.3.5.zip
+archive.bioconductor.org/packages/2.2/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm9_1.3.7.tar.gz
+archive.bioconductor.org/packages/2.2/data/annotation/bin/macosx/universal/contrib/2.7/BSgenome.Mmusculus.UCSC.mm9_1.3.7.tgz
+archive.bioconductor.org/packages/2.2/data/annotation/bin/windows/contrib/2.7/BSgenome.Mmusculus.UCSC.mm9_1.3.7.zip
+archive.bioconductor.org/packages/2.11/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm9_1.3.19.tar.gz
+archive.bioconductor.org/packages/2.12/data/annotation/bin/macosx/contrib/3.0/BSgenome.Mmusculus.UCSC.mm9_1.3.19.tgz

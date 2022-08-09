@@ -1,0 +1,6 @@
+archive.bioconductor.org/packages/2.4/data/annotation/bin/windows/contrib/2.9/BSgenome.Mmusculus.UCSC.mm9_1.3.11.zip
+archive.bioconductor.org/packages/2.8/data/annotation/bin/macosx/leopard/contrib/2.13/BSgenome.Mmusculus.UCSC.mm9_1.3.17.tgz
+archive.bioconductor.org/packages/2.2/data/annotation/src/contrib/BSgenome.Hsapiens.NCBI.b36v3_1.3.6.tar.gz
+archive.bioconductor.org/packages/2.2/data/annotation/bin/macosx/universal/contrib/2.7/BSgenome.Hsapiens.NCBI.b36v3_1.3.6.tgz
+archive.bioconductor.org/packages/2.2/data/annotation/bin/windows/contrib/2.7/BSgenome.Hsapiens.NCBI.b36v3_1.3.6.zip
+archive.bioconductor.org/packages/3.0/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg17_1.3.1000.tar.gz
