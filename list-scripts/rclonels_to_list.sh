@@ -48,3 +48,5 @@ done < list-scripts/$RAWDIR.sizes
 
 echo "Done with chunk $dircount with size $sizesofar B and $filenumsofar files"
 mv $outdir/tmp_sub_$dircount.txt $outdir/sub_${dircount}_${sizesofar}_${filenumsofar}.txt
+
+cat "$dupsoutdir/dups.txt" | sort -n | uniq > "$dupsoutdir/uniq.txt"
